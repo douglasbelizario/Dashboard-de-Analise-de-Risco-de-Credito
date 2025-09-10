@@ -14,7 +14,7 @@ O dashboard permite a visualização de clientes por faixa etária, risco, e out
    ```
 2. Navegue até a pasta do projeto:
    ```bash
-   cd meu_dashboard_risco
+   cd Credit
    ```
 3. Ative o ambiente virtual (Se necessário):
    ```bash
