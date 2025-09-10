@@ -1,0 +1,1001 @@
+Status_Conta_Corrente;Duracao_Mes;Proposito;Valor_Credito;Conta_Poupanca;Tempo_Emprego_Atual;Taxa_Parcelamento;Residencia_Atual_Desde;Idade;Moradia;N_Creditos_Existentes;Trabalho;N_Pessoas_Sustento;Telefone;Trabalhador_Estrangeiro;Risco;Faixa_Etaria
+< 0 DM;6;Rádio/TV;1169;Sem conta;>= 7 anos;4;4;67;Própria;2;Qualificado;1;Não;Sim;Bom;60+ anos
+0 a 200 DM;48;Rádio/TV;5951;< 100 DM;1  a 4 anos;2;2;22;Própria;1;Qualificado;1;Sim;Sim;Ruim;18-30 anos
+Sem conta;12;Educação;2096;< 100 DM;4 a 7 anos;2;3;49;Própria;1;Informal;2;Sim;Sim;Bom;41-50 anos
+< 0 DM;42;Móveis/Equipamento;7882;< 100 DM;4 a 7 anos;2;4;45;Favor;1;Qualificado;2;Sim;Sim;Bom;41-50 anos
+< 0 DM;24;Carro Novo;4870;< 100 DM;1  a 4 anos;3;4;53;Favor;2;Qualificado;2;Sim;Sim;Ruim;51-60 anos
+Sem conta;36;Educação;9055;Sem conta;1  a 4 anos;2;4;35;Favor;1;Informal;2;Não;Sim;Bom;31-40 anos
+Sem conta;24;Móveis/Equipamento;2835;500 a 1000 DM;>= 7 anos;3;4;53;Própria;1;Qualificado;1;Sim;Sim;Bom;51-60 anos
+0 a 200 DM;36;Carro Usado;6948;< 100 DM;1  a 4 anos;2;2;35;Aluguel;1;Autônomo/Gerência/Oficial;1;Não;Sim;Bom;31-40 anos
+Sem conta;12;Rádio/TV;3059;>= 1000 DM;4 a 7 anos;2;4;61;Própria;1;Informal;1;Sim;Sim;Bom;60+ anos
+0 a 200 DM;30;Carro Novo;5234;< 100 DM;Desempregado;4;2;28;Própria;2;Autônomo/Gerência/Oficial;1;Sim;Sim;Ruim;18-30 anos
+0 a 200 DM;12;Carro Novo;1295;< 100 DM;< 1 ano;3;1;25;Aluguel;1;Qualificado;1;Sim;Sim;Ruim;18-30 anos
+< 0 DM;48;Negócios;4308;< 100 DM;< 1 ano;3;4;24;Aluguel;1;Qualificado;1;Sim;Sim;Ruim;18-30 anos
+0 a 200 DM;12;Rádio/TV;1567;< 100 DM;1  a 4 anos;1;1;22;Própria;1;Qualificado;1;Não;Sim;Bom;18-30 anos
+< 0 DM;24;Carro Novo;1199;< 100 DM;>= 7 anos;4;4;60;Própria;2;Informal;1;Sim;Sim;Ruim;51-60 anos
+< 0 DM;15;Carro Novo;1403;< 100 DM;1  a 4 anos;2;4;28;Aluguel;1;Qualificado;1;Sim;Sim;Bom;18-30 anos
+< 0 DM;24;Rádio/TV;1282;100 a 500 DM;1  a 4 anos;4;2;32;Própria;1;Informal;1;Sim;Sim;Ruim;31-40 anos
+Sem conta;24;Rádio/TV;2424;Sem conta;>= 7 anos;4;4;53;Própria;2;Qualificado;1;Sim;Sim;Bom;51-60 anos
+< 0 DM;30;Negócios;8072;Sem conta;< 1 ano;2;3;25;Própria;3;Qualificado;1;Sim;Sim;Bom;18-30 anos
+0 a 200 DM;24;Carro Usado;12579;< 100 DM;>= 7 anos;4;2;44;Favor;1;Autônomo/Gerência/Oficial;1;Não;Sim;Ruim;41-50 anos
+Sem conta;24;Rádio/TV;3430;500 a 1000 DM;>= 7 anos;3;2;31;Própria;1;Qualificado;2;Não;Sim;Bom;31-40 anos
+Sem conta;9;Carro Novo;2134;< 100 DM;1  a 4 anos;4;4;48;Própria;3;Qualificado;1;Não;Sim;Bom;41-50 anos
+< 0 DM;6;Rádio/TV;2647;500 a 1000 DM;1  a 4 anos;2;3;44;Aluguel;1;Qualificado;2;Sim;Sim;Bom;41-50 anos
+< 0 DM;10;Carro Novo;2241;< 100 DM;< 1 ano;1;3;48;Aluguel;2;Informal;2;Sim;Não;Bom;41-50 anos
+0 a 200 DM;12;Carro Usado;1804;100 a 500 DM;< 1 ano;3;4;44;Própria;1;Qualificado;1;Sim;Sim;Bom;41-50 anos
+Sem conta;10;Móveis/Equipamento;2069;Sem conta;1  a 4 anos;2;1;26;Própria;2;Qualificado;1;Sim;Não;Bom;18-30 anos
+< 0 DM;6;Móveis/Equipamento;1374;< 100 DM;1  a 4 anos;1;2;36;Própria;1;Informal;1;Não;Sim;Bom;31-40 anos
+Sem conta;6;Rádio/TV;426;< 100 DM;>= 7 anos;4;4;39;Própria;1;Informal;1;Sim;Sim;Bom;31-40 anos
+>= 200 DM;12;Rádio/TV;409;>= 1000 DM;1  a 4 anos;3;3;42;Aluguel;2;Qualificado;1;Sim;Sim;Bom;41-50 anos
+0 a 200 DM;7;Rádio/TV;2415;< 100 DM;1  a 4 anos;3;2;34;Própria;1;Qualificado;1;Sim;Sim;Bom;31-40 anos
+< 0 DM;60;Negócios;6836;< 100 DM;>= 7 anos;3;4;63;Própria;2;Qualificado;1;Não;Sim;Ruim;60+ anos
+0 a 200 DM;18;Negócios;1913;>= 1000 DM;< 1 ano;3;3;36;Própria;1;Qualificado;1;Não;Sim;Bom;31-40 anos
+< 0 DM;24;Móveis/Equipamento;4020;< 100 DM;1  a 4 anos;2;2;27;Própria;1;Qualificado;1;Sim;Sim;Bom;18-30 anos
+0 a 200 DM;18;Carro Novo;5866;100 a 500 DM;1  a 4 anos;2;2;30;Própria;2;Qualificado;1;Não;Sim;Bom;18-30 anos
+Sem conta;12;Negócios;1264;Sem conta;>= 7 anos;4;4;57;Aluguel;1;Informal;1;Sim;Sim;Bom;51-60 anos
+>= 200 DM;12;Móveis/Equipamento;1474;< 100 DM;< 1 ano;4;1;33;Própria;1;Autônomo/Gerência/Oficial;1;Não;Sim;Bom;31-40 anos
+0 a 200 DM;45;Rádio/TV;4746;< 100 DM;< 1 ano;4;2;25;Própria;2;Informal;1;Sim;Sim;Ruim;18-30 anos
+Sem conta;48;Educação;6110;< 100 DM;1  a 4 anos;1;3;31;Favor;1;Qualificado;1;Não;Sim;Bom;31-40 anos
+>= 200 DM;18;Rádio/TV;2100;< 100 DM;1  a 4 anos;4;2;37;Própria;1;Qualificado;1;Sim;Sim;Ruim;31-40 anos
+>= 200 DM;10;Eletrodomésticos;1225;< 100 DM;1  a 4 anos;2;2;37;Própria;1;Qualificado;1;Não;Sim;Bom;31-40 anos
+0 a 200 DM;9;Rádio/TV;458;< 100 DM;1  a 4 anos;4;3;24;Própria;1;Qualificado;1;Sim;Sim;Bom;18-30 anos
+Sem conta;30;Rádio/TV;2333;500 a 1000 DM;>= 7 anos;4;2;30;Própria;1;Autônomo/Gerência/Oficial;1;Sim;Sim;Bom;18-30 anos
+0 a 200 DM;12;Rádio/TV;1158;500 a 1000 DM;1  a 4 anos;3;1;26;Própria;1;Qualificado;1;Não;Sim;Bom;18-30 anos
+0 a 200 DM;18;Reparos;6204;< 100 DM;1  a 4 anos;2;4;44;Própria;1;Informal;2;Não;Sim;Bom;41-50 anos
+< 0 DM;30;Carro Usado;6187;100 a 500 DM;4 a 7 anos;1;4;24;Aluguel;2;Qualificado;1;Sim;Sim;Bom;18-30 anos
+< 0 DM;48;Carro Usado;6143;< 100 DM;>= 7 anos;4;4;58;Favor;2;Informal;1;Sim;Sim;Ruim;51-60 anos
+Sem conta;11;Carro Novo;1393;< 100 DM;< 1 ano;4;4;35;Própria;2;Autônomo/Gerência/Oficial;1;Sim;Sim;Bom;31-40 anos
+Sem conta;36;Rádio/TV;2299;500 a 1000 DM;>= 7 anos;4;4;39;Própria;1;Qualificado;1;Sim;Sim;Bom;31-40 anos
+< 0 DM;6;Carro Usado;1352;500 a 1000 DM;Desempregado;1;2;23;Aluguel;1;Desempregado;1;Não;Sim;Bom;18-30 anos
+Sem conta;11;Carro Novo;7228;< 100 DM;1  a 4 anos;1;4;39;Própria;2;Informal;1;Sim;Sim;Bom;31-40 anos
+Sem conta;12;Rádio/TV;2073;100 a 500 DM;1  a 4 anos;4;2;28;Própria;1;Qualificado;1;Sim;Sim;Bom;18-30 anos
+0 a 200 DM;24;Móveis/Equipamento;2333;Sem conta;< 1 ano;4;2;29;Própria;1;Informal;1;Sim;Sim;Bom;18-30 anos
+0 a 200 DM;27;Carro Usado;5965;< 100 DM;>= 7 anos;1;2;30;Própria;2;Autônomo/Gerência/Oficial;1;Não;Sim;Bom;18-30 anos
+Sem conta;12;Rádio/TV;1262;< 100 DM;1  a 4 anos;3;2;25;Própria;1;Qualificado;1;Sim;Sim;Bom;18-30 anos
+Sem conta;18;Carro Usado;3378;Sem conta;1  a 4 anos;2;1;31;Própria;1;Qualificado;1;Não;Sim;Bom;31-40 anos
+0 a 200 DM;36;Carro Novo;2225;< 100 DM;>= 7 anos;4;4;57;Favor;2;Qualificado;1;Não;Sim;Ruim;51-60 anos
+Sem conta;6;Carro Novo;783;Sem conta;1  a 4 anos;1;2;26;Própria;1;Informal;2;Sim;Sim;Bom;18-30 anos
+0 a 200 DM;12;Rádio/TV;6468;Sem conta;Desempregado;2;1;52;Própria;1;Autônomo/Gerência/Oficial;1;Não;Sim;Ruim;51-60 anos
+Sem conta;36;Rádio/TV;9566;< 100 DM;1  a 4 anos;2;2;31;Própria;2;Qualificado;1;Sim;Sim;Bom;31-40 anos
+>= 200 DM;18;Carro Novo;1961;< 100 DM;>= 7 anos;3;2;23;Própria;1;Autônomo/Gerência/Oficial;1;Sim;Sim;Bom;18-30 anos
+< 0 DM;36;Móveis/Equipamento;6229;< 100 DM;< 1 ano;4;4;23;Aluguel;2;Informal;1;Não;Sim;Ruim;18-30 anos
+0 a 200 DM;9;Negócios;1391;< 100 DM;1  a 4 anos;2;1;27;Própria;1;Qualificado;1;Não;Sim;Bom;18-30 anos
+0 a 200 DM;15;Rádio/TV;1537;Sem conta;>= 7 anos;4;4;50;Própria;2;Qualificado;1;Não;Sim;Bom;41-50 anos
+0 a 200 DM;36;Negócios;1953;< 100 DM;>= 7 anos;4;4;61;Favor;1;Autônomo/Gerência/Oficial;1;Não;Sim;Ruim;60+ anos
+0 a 200 DM;48;Negócios;14421;< 100 DM;1  a 4 anos;2;2;25;Própria;1;Qualificado;1;Não;Sim;Ruim;18-30 anos
+Sem conta;24;Rádio/TV;3181;< 100 DM;< 1 ano;4;4;26;Própria;1;Qualificado;1;Não;Sim;Bom;18-30 anos
+Sem conta;27;Reparos;5190;Sem conta;>= 7 anos;4;4;48;Própria;4;Qualificado;2;Não;Sim;Bom;41-50 anos
+Sem conta;12;Rádio/TV;2171;< 100 DM;< 1 ano;2;2;29;Própria;1;Qualificado;1;Sim;Sim;Bom;18-30 anos
+0 a 200 DM;12;Carro Novo;1007;>= 1000 DM;1  a 4 anos;4;1;22;Própria;1;Qualificado;1;Sim;Sim;Bom;18-30 anos
+Sem conta;36;Educação;1819;< 100 DM;1  a 4 anos;4;4;37;Favor;1;Qualificado;1;Não;Sim;Ruim;31-40 anos
+Sem conta;36;Rádio/TV;2394;Sem conta;1  a 4 anos;4;4;25;Própria;1;Qualificado;1;Sim;Sim;Bom;18-30 anos
+Sem conta;36;Carro Usado;8133;< 100 DM;1  a 4 anos;1;2;30;Própria;1;Qualificado;1;Sim;Sim;Bom;18-30 anos
+Sem conta;7;Rádio/TV;730;Sem conta;>= 7 anos;4;2;46;Aluguel;2;Informal;1;Não;Sim;Bom;41-50 anos
+< 0 DM;8;Outros;1164;< 100 DM;>= 7 anos;3;4;51;Favor;2;Autônomo/Gerência/Oficial;2;Não;Sim;Bom;51-60 anos
+0 a 200 DM;42;Negócios;5954;< 100 DM;4 a 7 anos;2;1;41;Própria;2;Informal;1;Sim;Sim;Bom;41-50 anos
+< 0 DM;36;Educação;1977;Sem conta;>= 7 anos;4;4;40;Própria;1;Autônomo/Gerência/Oficial;1;Não;Sim;Ruim;31-40 anos
+< 0 DM;12;Carro Usado;1526;< 100 DM;>= 7 anos;4;4;66;Favor;2;Autônomo/Gerência/Oficial;1;Sim;Sim;Bom;60+ anos
+< 0 DM;42;Rádio/TV;3965;< 100 DM;< 1 ano;4;3;34;Própria;1;Qualificado;1;Sim;Sim;Ruim;31-40 anos
+0 a 200 DM;11;Rádio/TV;4771;< 100 DM;4 a 7 anos;2;4;51;Própria;1;Qualificado;1;Sim;Sim;Bom;51-60 anos
+Sem conta;54;Carro Usado;9436;Sem conta;1  a 4 anos;2;2;39;Própria;1;Informal;2;Sim;Sim;Bom;31-40 anos
+0 a 200 DM;30;Móveis/Equipamento;3832;< 100 DM;< 1 ano;2;1;22;Própria;1;Qualificado;1;Sim;Sim;Bom;18-30 anos
+Sem conta;24;Rádio/TV;5943;Sem conta;< 1 ano;1;1;44;Própria;2;Qualificado;1;Não;Sim;Ruim;41-50 anos
+Sem conta;15;Rádio/TV;1213;500 a 1000 DM;>= 7 anos;4;3;47;Própria;1;Qualificado;1;Não;Sim;Bom;41-50 anos
+Sem conta;18;Negócios;1568;100 a 500 DM;1  a 4 anos;3;4;24;Aluguel;1;Informal;1;Sim;Sim;Bom;18-30 anos
+< 0 DM;24;Outros;1755;< 100 DM;>= 7 anos;4;4;58;Própria;1;Informal;1;Não;Sim;Bom;51-60 anos
+< 0 DM;10;Rádio/TV;2315;< 100 DM;>= 7 anos;3;4;52;Própria;1;Informal;1;Sim;Sim;Bom;51-60 anos
+Sem conta;12;Negócios;1412;< 100 DM;1  a 4 anos;4;2;29;Própria;2;Autônomo/Gerência/Oficial;1;Não;Sim;Bom;18-30 anos
+0 a 200 DM;18;Móveis/Equipamento;1295;< 100 DM;< 1 ano;4;1;27;Própria;2;Qualificado;1;Sim;Sim;Bom;18-30 anos
+0 a 200 DM;36;Educação;12612;100 a 500 DM;1  a 4 anos;1;4;47;Favor;1;Qualificado;2;Não;Sim;Ruim;41-50 anos
+< 0 DM;18;Carro Novo;2249;100 a 500 DM;4 a 7 anos;4;3;30;Própria;1;Autônomo/Gerência/Oficial;2;Não;Sim;Bom;18-30 anos
+< 0 DM;12;Reparos;1108;< 100 DM;4 a 7 anos;4;3;28;Própria;2;Qualificado;1;Sim;Sim;Ruim;18-30 anos
+Sem conta;12;Rádio/TV;618;< 100 DM;>= 7 anos;4;4;56;Própria;1;Qualificado;1;Sim;Sim;Bom;51-60 anos
+< 0 DM;12;Carro Usado;1409;< 100 DM;>= 7 anos;4;3;54;Própria;1;Qualificado;1;Sim;Sim;Bom;51-60 anos
+Sem conta;12;Rádio/TV;797;Sem conta;>= 7 anos;4;3;33;Própria;1;Informal;2;Sim;Sim;Ruim;31-40 anos
+>= 200 DM;24;Móveis/Equipamento;3617;Sem conta;>= 7 anos;4;4;20;Aluguel;2;Qualificado;1;Sim;Sim;Bom;18-30 anos
+0 a 200 DM;12;Carro Novo;1318;>= 1000 DM;>= 7 anos;4;4;54;Própria;1;Qualificado;1;Não;Sim;Bom;51-60 anos
+0 a 200 DM;54;Negócios;15945;< 100 DM;< 1 ano;3;4;58;Aluguel;1;Qualificado;1;Não;Sim;Ruim;51-60 anos
+Sem conta;12;Educação;2012;Sem conta;4 a 7 anos;4;2;61;Própria;1;Qualificado;1;Sim;Sim;Bom;60+ anos
+0 a 200 DM;18;Negócios;2622;100 a 500 DM;1  a 4 anos;4;4;34;Própria;1;Qualificado;1;Sim;Sim;Bom;31-40 anos
+0 a 200 DM;36;Rádio/TV;2337;< 100 DM;>= 7 anos;4;4;36;Própria;1;Qualificado;1;Sim;Sim;Bom;31-40 anos
+0 a 200 DM;20;Carro Usado;7057;Sem conta;4 a 7 anos;3;4;36;Aluguel;2;Autônomo/Gerência/Oficial;2;Não;Sim;Bom;31-40 anos
+Sem conta;24;Carro Novo;1469;100 a 500 DM;>= 7 anos;4;4;41;Aluguel;1;Informal;1;Sim;Sim;Bom;41-50 anos
+0 a 200 DM;36;Rádio/TV;2323;< 100 DM;4 a 7 anos;4;4;24;Aluguel;1;Qualificado;1;Sim;Sim;Bom;18-30 anos
+Sem conta;6;Rádio/TV;932;< 100 DM;1  a 4 anos;3;2;24;Própria;1;Qualificado;1;Sim;Sim;Bom;18-30 anos
+0 a 200 DM;9;Móveis/Equipamento;1919;< 100 DM;4 a 7 anos;4;3;35;Aluguel;1;Qualificado;1;Não;Sim;Bom;31-40 anos
+Sem conta;12;Carro Usado;2445;Sem conta;< 1 ano;2;4;26;Aluguel;1;Qualificado;1;Não;Sim;Bom;18-30 anos
+0 a 200 DM;24;Outros;11938;< 100 DM;1  a 4 anos;2;3;39;Própria;2;Autônomo/Gerência/Oficial;2;Não;Sim;Ruim;31-40 anos
+Sem conta;18;Carro Novo;6458;< 100 DM;>= 7 anos;2;4;39;Própria;2;Autônomo/Gerência/Oficial;2;Não;Sim;Ruim;31-40 anos
+0 a 200 DM;12;Carro Novo;6078;< 100 DM;4 a 7 anos;2;2;32;Própria;1;Qualificado;1;Sim;Sim;Bom;31-40 anos
+< 0 DM;24;Móveis/Equipamento;7721;Sem conta;< 1 ano;1;2;30;Própria;1;Qualificado;1;Não;Não;Bom;18-30 anos
+0 a 200 DM;14;Negócios;1410;500 a 1000 DM;>= 7 anos;1;2;35;Própria;1;Qualificado;1;Não;Sim;Bom;31-40 anos
+0 a 200 DM;6;Negócios;1449;100 a 500 DM;>= 7 anos;1;2;31;Própria;2;Qualificado;2;Sim;Sim;Bom;31-40 anos
+>= 200 DM;15;Educação;392;< 100 DM;< 1 ano;4;4;23;Aluguel;1;Qualificado;1;Não;Sim;Bom;18-30 anos
+0 a 200 DM;18;Carro Novo;6260;< 100 DM;4 a 7 anos;3;3;28;Aluguel;1;Informal;1;Sim;Sim;Bom;18-30 anos
+Sem conta;36;Carro Novo;7855;< 100 DM;1  a 4 anos;4;2;25;Própria;2;Qualificado;1;Não;Sim;Ruim;18-30 anos
+< 0 DM;12;Rádio/TV;1680;500 a 1000 DM;>= 7 anos;3;1;35;Própria;1;Qualificado;1;Sim;Sim;Bom;31-40 anos
+Sem conta;48;Rádio/TV;3578;Sem conta;>= 7 anos;4;1;47;Própria;1;Qualificado;1;Não;Sim;Bom;41-50 anos
+< 0 DM;42;Rádio/TV;7174;Sem conta;4 a 7 anos;4;3;30;Própria;1;Autônomo/Gerência/Oficial;1;Não;Sim;Ruim;18-30 anos
+< 0 DM;10;Móveis/Equipamento;2132;Sem conta;< 1 ano;2;3;27;Aluguel;2;Qualificado;1;Sim;Não;Bom;18-30 anos
+< 0 DM;33;Móveis/Equipamento;4281;500 a 1000 DM;1  a 4 anos;1;4;23;Própria;2;Qualificado;1;Sim;Sim;Ruim;18-30 anos
+0 a 200 DM;12;Carro Novo;2366;500 a 1000 DM;4 a 7 anos;3;3;36;Própria;1;Autônomo/Gerência/Oficial;1;Não;Sim;Bom;31-40 anos
+< 0 DM;21;Rádio/TV;1835;< 100 DM;1  a 4 anos;3;2;25;Própria;2;Qualificado;1;Não;Sim;Ruim;18-30 anos
+Sem conta;24;Carro Usado;3868;< 100 DM;>= 7 anos;4;2;41;Aluguel;2;Autônomo/Gerência/Oficial;1;Não;Sim;Bom;41-50 anos
+Sem conta;12;Móveis/Equipamento;1768;< 100 DM;1  a 4 anos;3;2;24;Aluguel;1;Informal;1;Sim;Sim;Bom;18-30 anos
+>= 200 DM;10;Carro Novo;781;< 100 DM;>= 7 anos;4;4;63;Favor;2;Qualificado;1;Não;Sim;Bom;60+ anos
+0 a 200 DM;18;Móveis/Equipamento;1924;Sem conta;< 1 ano;4;3;27;Aluguel;1;Qualificado;1;Sim;Sim;Ruim;18-30 anos
+< 0 DM;12;Carro Novo;2121;< 100 DM;1  a 4 anos;4;2;30;Própria;2;Qualificado;1;Sim;Sim;Bom;18-30 anos
+< 0 DM;12;Rádio/TV;701;< 100 DM;1  a 4 anos;4;2;40;Própria;1;Informal;1;Sim;Sim;Bom;31-40 anos
+0 a 200 DM;12;Reparos;639;< 100 DM;1  a 4 anos;4;2;30;Própria;1;Qualificado;1;Sim;Sim;Ruim;18-30 anos
+0 a 200 DM;12;Carro Usado;1860;< 100 DM;Desempregado;4;2;34;Própria;2;Autônomo/Gerência/Oficial;1;Não;Sim;Bom;31-40 anos
+< 0 DM;12;Carro Novo;3499;< 100 DM;1  a 4 anos;3;2;29;Própria;2;Qualificado;1;Sim;Sim;Ruim;18-30 anos
+0 a 200 DM;48;Carro Novo;8487;Sem conta;4 a 7 anos;1;2;24;Própria;1;Qualificado;1;Sim;Sim;Bom;18-30 anos
+< 0 DM;36;Educação;6887;< 100 DM;1  a 4 anos;4;3;29;Própria;1;Qualificado;1;Não;Sim;Ruim;18-30 anos
+Sem conta;15;Móveis/Equipamento;2708;< 100 DM;< 1 ano;2;3;27;Própria;2;Informal;1;Sim;Sim;Bom;18-30 anos
+Sem conta;18;Móveis/Equipamento;1984;< 100 DM;1  a 4 anos;4;4;47;Favor;2;Qualificado;1;Sim;Sim;Bom;41-50 anos
+Sem conta;60;Rádio/TV;10144;100 a 500 DM;4 a 7 anos;2;4;21;Própria;1;Qualificado;1;Não;Sim;Bom;18-30 anos
+Sem conta;12;Rádio/TV;1240;Sem conta;>= 7 anos;4;2;38;Própria;2;Qualificado;1;Não;Sim;Bom;31-40 anos
+Sem conta;27;Carro Usado;8613;>= 1000 DM;1  a 4 anos;2;2;27;Própria;2;Qualificado;1;Sim;Sim;Bom;18-30 anos
+0 a 200 DM;12;Rádio/TV;766;500 a 1000 DM;1  a 4 anos;4;3;66;Própria;1;Informal;1;Sim;Sim;Ruim;60+ anos
+0 a 200 DM;15;Rádio/TV;2728;Sem conta;4 a 7 anos;4;2;35;Própria;3;Qualificado;1;Não;Sim;Bom;31-40 anos
+>= 200 DM;12;Rádio/TV;1881;< 100 DM;1  a 4 anos;2;2;44;Aluguel;1;Informal;1;Não;Sim;Bom;41-50 anos
+>= 200 DM;6;Carro Novo;709;>= 1000 DM;< 1 ano;2;2;27;Própria;1;Desempregado;1;Sim;Não;Bom;18-30 anos
+0 a 200 DM;36;Rádio/TV;4795;< 100 DM;< 1 ano;4;1;30;Própria;1;Autônomo/Gerência/Oficial;1;Não;Sim;Bom;18-30 anos
+< 0 DM;27;Rádio/TV;3416;< 100 DM;1  a 4 anos;3;2;27;Própria;1;Autônomo/Gerência/Oficial;1;Sim;Sim;Bom;18-30 anos
+< 0 DM;18;Móveis/Equipamento;2462;< 100 DM;1  a 4 anos;2;2;22;Própria;1;Qualificado;1;Sim;Sim;Ruim;18-30 anos
+Sem conta;21;Móveis/Equipamento;2288;< 100 DM;< 1 ano;4;4;23;Própria;1;Qualificado;1;Não;Sim;Bom;18-30 anos
+0 a 200 DM;48;Negócios;3566;100 a 500 DM;4 a 7 anos;4;2;30;Própria;1;Qualificado;1;Sim;Sim;Bom;18-30 anos
+< 0 DM;6;Carro Novo;860;< 100 DM;>= 7 anos;1;4;39;Própria;2;Qualificado;1;Não;Sim;Bom;31-40 anos
+Sem conta;12;Carro Novo;682;100 a 500 DM;4 a 7 anos;4;3;51;Própria;2;Qualificado;1;Não;Sim;Bom;51-60 anos
+< 0 DM;36;Móveis/Equipamento;5371;< 100 DM;1  a 4 anos;3;2;28;Própria;2;Qualificado;1;Sim;Sim;Bom;18-30 anos
+Sem conta;18;Rádio/TV;1582;>= 1000 DM;>= 7 anos;4;4;46;Própria;2;Qualificado;1;Sim;Sim;Bom;41-50 anos
+Sem conta;6;Rádio/TV;1346;100 a 500 DM;>= 7 anos;2;4;42;Favor;1;Qualificado;2;Não;Sim;Bom;41-50 anos
+Sem conta;10;Rádio/TV;1924;< 100 DM;1  a 4 anos;1;4;38;Própria;1;Qualificado;1;Não;Não;Bom;31-40 anos
+>= 200 DM;36;Rádio/TV;5848;< 100 DM;1  a 4 anos;4;1;24;Própria;1;Qualificado;1;Sim;Sim;Bom;18-30 anos
+0 a 200 DM;24;Carro Usado;7758;>= 1000 DM;>= 7 anos;2;4;29;Aluguel;1;Qualificado;1;Sim;Sim;Bom;18-30 anos
+0 a 200 DM;24;Negócios;6967;100 a 500 DM;4 a 7 anos;4;4;36;Aluguel;1;Autônomo/Gerência/Oficial;1;Não;Sim;Bom;31-40 anos
+< 0 DM;12;Móveis/Equipamento;1282;< 100 DM;1  a 4 anos;2;4;20;Aluguel;1;Qualificado;1;Sim;Sim;Ruim;18-30 anos
+< 0 DM;9;Reparos;1288;100 a 500 DM;>= 7 anos;3;4;48;Própria;2;Qualificado;2;Sim;Não;Bom;41-50 anos
+< 0 DM;12;Retreinamento;339;< 100 DM;>= 7 anos;4;1;45;Própria;1;Informal;1;Sim;Sim;Bom;41-50 anos
+0 a 200 DM;24;Carro Novo;3512;100 a 500 DM;4 a 7 anos;2;3;38;Própria;2;Qualificado;1;Não;Sim;Bom;31-40 anos
+Sem conta;6;Rádio/TV;1898;Sem conta;1  a 4 anos;1;2;34;Própria;2;Informal;2;Sim;Sim;Bom;31-40 anos
+Sem conta;24;Rádio/TV;2872;100 a 500 DM;>= 7 anos;3;4;36;Própria;1;Qualificado;2;Não;Sim;Bom;31-40 anos
+Sem conta;18;Carro Novo;1055;< 100 DM;< 1 ano;4;1;30;Própria;2;Qualificado;1;Sim;Sim;Bom;18-30 anos
+Sem conta;15;Eletrodomésticos;1262;500 a 1000 DM;4 a 7 anos;4;3;36;Própria;2;Qualificado;1;Não;Sim;Bom;31-40 anos
+0 a 200 DM;10;Carro Novo;7308;< 100 DM;Desempregado;2;4;70;Favor;1;Autônomo/Gerência/Oficial;1;Não;Sim;Bom;60+ anos
+Sem conta;36;Carro Novo;909;500 a 1000 DM;>= 7 anos;4;4;36;Própria;1;Qualificado;1;Sim;Sim;Bom;31-40 anos
+Sem conta;6;Móveis/Equipamento;2978;500 a 1000 DM;1  a 4 anos;1;2;32;Própria;1;Qualificado;1;Não;Sim;Bom;31-40 anos
+< 0 DM;18;Móveis/Equipamento;1131;< 100 DM;Desempregado;4;2;33;Própria;1;Qualificado;1;Sim;Sim;Ruim;31-40 anos
+0 a 200 DM;11;Móveis/Equipamento;1577;>= 1000 DM;< 1 ano;4;1;20;Própria;1;Qualificado;1;Sim;Sim;Bom;18-30 anos
+Sem conta;24;Móveis/Equipamento;3972;< 100 DM;4 a 7 anos;2;4;25;Aluguel;1;Qualificado;1;Não;Sim;Bom;18-30 anos
+0 a 200 DM;24;Negócios;1935;< 100 DM;>= 7 anos;4;4;31;Própria;2;Qualificado;1;Não;Sim;Ruim;31-40 anos
+< 0 DM;15;Carro Novo;950;< 100 DM;>= 7 anos;4;3;33;Aluguel;2;Qualificado;2;Sim;Sim;Ruim;31-40 anos
+Sem conta;12;Móveis/Equipamento;763;< 100 DM;1  a 4 anos;4;1;26;Própria;1;Qualificado;1;Não;Sim;Bom;18-30 anos
+0 a 200 DM;24;Móveis/Equipamento;2064;< 100 DM;Desempregado;3;2;34;Própria;1;Autônomo/Gerência/Oficial;1;Não;Sim;Ruim;31-40 anos
+0 a 200 DM;8;Rádio/TV;1414;< 100 DM;1  a 4 anos;4;2;33;Própria;1;Qualificado;1;Sim;Não;Bom;31-40 anos
+< 0 DM;21;Educação;3414;< 100 DM;< 1 ano;2;1;26;Própria;2;Qualificado;1;Sim;Sim;Ruim;18-30 anos
+Sem conta;30;Carro Usado;7485;Sem conta;Desempregado;4;1;53;Própria;1;Autônomo/Gerência/Oficial;1;Não;Sim;Ruim;51-60 anos
+< 0 DM;12;Móveis/Equipamento;2577;< 100 DM;1  a 4 anos;2;1;42;Própria;1;Qualificado;1;Sim;Sim;Bom;41-50 anos
+< 0 DM;6;Rádio/TV;338;500 a 1000 DM;>= 7 anos;4;4;52;Própria;2;Qualificado;1;Sim;Sim;Bom;51-60 anos
+Sem conta;12;Rádio/TV;1963;< 100 DM;4 a 7 anos;4;2;31;Aluguel;2;Autônomo/Gerência/Oficial;2;Não;Sim;Bom;31-40 anos
+< 0 DM;21;Carro Novo;571;< 100 DM;>= 7 anos;4;4;65;Própria;2;Qualificado;1;Sim;Sim;Bom;60+ anos
+Sem conta;36;Negócios;9572;< 100 DM;< 1 ano;1;1;28;Própria;2;Qualificado;1;Sim;Sim;Ruim;18-30 anos
+0 a 200 DM;36;Negócios;4455;< 100 DM;1  a 4 anos;2;2;30;Própria;2;Autônomo/Gerência/Oficial;1;Não;Sim;Ruim;18-30 anos
+< 0 DM;21;Carro Novo;1647;Sem conta;1  a 4 anos;4;2;40;Própria;2;Informal;2;Sim;Sim;Ruim;31-40 anos
+Sem conta;24;Móveis/Equipamento;3777;>= 1000 DM;1  a 4 anos;4;4;50;Própria;1;Qualificado;1;Não;Sim;Bom;41-50 anos
+0 a 200 DM;18;Carro Novo;884;< 100 DM;>= 7 anos;4;4;36;Própria;1;Qualificado;2;Não;Sim;Ruim;31-40 anos
+Sem conta;15;Rádio/TV;1360;< 100 DM;1  a 4 anos;4;2;31;Própria;2;Qualificado;1;Sim;Sim;Bom;31-40 anos
+0 a 200 DM;9;Carro Usado;5129;< 100 DM;>= 7 anos;2;4;74;Favor;1;Autônomo/Gerência/Oficial;2;Não;Sim;Ruim;60+ anos
+0 a 200 DM;16;Carro Novo;1175;< 100 DM;Desempregado;2;3;68;Favor;3;Desempregado;1;Não;Sim;Bom;60+ anos
+< 0 DM;12;Rádio/TV;674;100 a 500 DM;4 a 7 anos;4;1;20;Própria;1;Qualificado;1;Sim;Sim;Ruim;18-30 anos
+0 a 200 DM;18;Móveis/Equipamento;3244;< 100 DM;1  a 4 anos;1;4;33;Própria;2;Qualificado;1;Não;Sim;Bom;31-40 anos
+Sem conta;24;Negócios;4591;>= 1000 DM;1  a 4 anos;2;3;54;Própria;3;Autônomo/Gerência/Oficial;1;Não;Sim;Ruim;51-60 anos
+0 a 200 DM;48;Negócios;3844;100 a 500 DM;4 a 7 anos;4;4;34;Favor;1;Informal;2;Sim;Sim;Ruim;31-40 anos
+0 a 200 DM;27;Negócios;3915;< 100 DM;1  a 4 anos;4;2;36;Própria;1;Qualificado;2;Não;Sim;Ruim;31-40 anos
+Sem conta;6;Rádio/TV;2108;< 100 DM;4 a 7 anos;2;2;29;Aluguel;1;Qualificado;1;Sim;Sim;Bom;18-30 anos
+0 a 200 DM;45;Rádio/TV;3031;100 a 500 DM;1  a 4 anos;4;4;21;Aluguel;1;Qualificado;1;Sim;Sim;Ruim;18-30 anos
+0 a 200 DM;9;Educação;1501;< 100 DM;>= 7 anos;2;3;34;Própria;2;Autônomo/Gerência/Oficial;1;Não;Sim;Ruim;31-40 anos
+Sem conta;6;Rádio/TV;1382;< 100 DM;1  a 4 anos;1;1;28;Própria;2;Qualificado;1;Não;Sim;Bom;18-30 anos
+0 a 200 DM;12;Móveis/Equipamento;951;100 a 500 DM;< 1 ano;4;4;27;Aluguel;4;Qualificado;1;Sim;Sim;Ruim;18-30 anos
+0 a 200 DM;24;Carro Usado;2760;Sem conta;>= 7 anos;4;4;36;Favor;1;Qualificado;1;Não;Sim;Bom;31-40 anos
+0 a 200 DM;18;Móveis/Equipamento;4297;< 100 DM;>= 7 anos;4;3;40;Própria;1;Autônomo/Gerência/Oficial;1;Não;Sim;Ruim;31-40 anos
+Sem conta;9;Educação;936;500 a 1000 DM;>= 7 anos;4;2;52;Própria;2;Qualificado;1;Não;Sim;Bom;51-60 anos
+< 0 DM;12;Carro Novo;1168;< 100 DM;1  a 4 anos;4;3;27;Própria;1;Informal;1;Sim;Sim;Bom;18-30 anos
+Sem conta;27;Negócios;5117;< 100 DM;4 a 7 anos;3;4;26;Própria;2;Qualificado;1;Sim;Sim;Bom;18-30 anos
+< 0 DM;12;Retreinamento;902;< 100 DM;4 a 7 anos;4;4;21;Aluguel;1;Qualificado;1;Sim;Sim;Ruim;18-30 anos
+Sem conta;12;Carro Novo;1495;< 100 DM;>= 7 anos;4;1;38;Própria;2;Informal;2;Sim;Sim;Bom;31-40 anos
+< 0 DM;30;Carro Usado;10623;< 100 DM;>= 7 anos;3;4;38;Favor;3;Autônomo/Gerência/Oficial;2;Não;Sim;Bom;31-40 anos
+Sem conta;12;Móveis/Equipamento;1935;< 100 DM;>= 7 anos;4;4;43;Própria;3;Qualificado;1;Não;Sim;Bom;41-50 anos
+0 a 200 DM;12;Eletrodomésticos;1424;< 100 DM;4 a 7 anos;4;3;26;Própria;1;Qualificado;1;Sim;Sim;Bom;18-30 anos
+< 0 DM;24;Negócios;6568;< 100 DM;1  a 4 anos;2;2;21;Própria;1;Informal;1;Sim;Sim;Bom;18-30 anos
+Sem conta;12;Carro Usado;1413;>= 1000 DM;4 a 7 anos;3;2;55;Própria;1;Qualificado;1;Sim;Não;Bom;51-60 anos
+Sem conta;9;Rádio/TV;3074;Sem conta;1  a 4 anos;1;2;33;Própria;2;Qualificado;2;Sim;Sim;Bom;31-40 anos
+Sem conta;36;Rádio/TV;3835;Sem conta;>= 7 anos;2;4;45;Própria;1;Informal;1;Não;Sim;Bom;41-50 anos
+< 0 DM;27;Negócios;5293;< 100 DM;Desempregado;2;4;50;Própria;2;Qualificado;1;Não;Sim;Ruim;41-50 anos
+>= 200 DM;30;Negócios;1908;< 100 DM;>= 7 anos;4;4;66;Própria;1;Autônomo/Gerência/Oficial;1;Não;Sim;Ruim;60+ anos
+Sem conta;36;Rádio/TV;3342;Sem conta;>= 7 anos;4;2;51;Própria;1;Qualificado;1;Não;Sim;Bom;51-60 anos
+0 a 200 DM;6;Retreinamento;932;Sem conta;4 a 7 anos;1;3;39;Própria;2;Informal;1;Sim;Sim;Bom;31-40 anos
+< 0 DM;18;Negócios;3104;< 100 DM;4 a 7 anos;3;1;31;Própria;1;Qualificado;1;Não;Sim;Bom;31-40 anos
+>= 200 DM;36;Rádio/TV;3913;< 100 DM;1  a 4 anos;2;2;23;Própria;1;Qualificado;1;Não;Sim;Bom;18-30 anos
+< 0 DM;24;Móveis/Equipamento;3021;< 100 DM;1  a 4 anos;2;2;24;Aluguel;1;Informal;1;Sim;Sim;Bom;18-30 anos
+Sem conta;10;Carro Novo;1364;< 100 DM;1  a 4 anos;2;4;64;Própria;1;Qualificado;1;Não;Sim;Bom;60+ anos
+0 a 200 DM;12;Rádio/TV;625;< 100 DM;< 1 ano;4;1;26;Própria;1;Informal;1;Sim;Sim;Bom;18-30 anos
+< 0 DM;12;Educação;1200;Sem conta;1  a 4 anos;4;4;23;Aluguel;1;Qualificado;1;Não;Sim;Bom;18-30 anos
+Sem conta;12;Rádio/TV;707;< 100 DM;1  a 4 anos;4;2;30;Própria;2;Qualificado;1;Sim;Sim;Bom;18-30 anos
+Sem conta;24;Negócios;2978;Sem conta;1  a 4 anos;4;4;32;Própria;2;Qualificado;2;Não;Sim;Bom;31-40 anos
+Sem conta;15;Carro Usado;4657;< 100 DM;1  a 4 anos;3;2;30;Própria;1;Qualificado;1;Não;Sim;Bom;18-30 anos
+Sem conta;36;Reparos;2613;< 100 DM;1  a 4 anos;4;2;27;Própria;2;Qualificado;1;Sim;Sim;Bom;18-30 anos
+0 a 200 DM;48;Rádio/TV;10961;>= 1000 DM;4 a 7 anos;1;2;27;Própria;2;Qualificado;1;Não;Sim;Ruim;18-30 anos
+< 0 DM;12;Móveis/Equipamento;7865;< 100 DM;>= 7 anos;4;4;53;Favor;1;Autônomo/Gerência/Oficial;1;Não;Sim;Ruim;51-60 anos
+Sem conta;9;Rádio/TV;1478;< 100 DM;4 a 7 anos;4;2;22;Própria;1;Qualificado;1;Sim;Sim;Ruim;18-30 anos
+< 0 DM;24;Móveis/Equipamento;3149;< 100 DM;< 1 ano;4;1;22;Favor;1;Qualificado;1;Sim;Sim;Bom;18-30 anos
+>= 200 DM;36;Rádio/TV;4210;< 100 DM;1  a 4 anos;4;2;26;Própria;1;Qualificado;1;Sim;Sim;Ruim;18-30 anos
+Sem conta;9;Carro Novo;2507;500 a 1000 DM;>= 7 anos;2;4;51;Favor;1;Informal;1;Sim;Sim;Bom;51-60 anos
+Sem conta;12;Rádio/TV;2141;100 a 500 DM;4 a 7 anos;3;1;35;Própria;1;Qualificado;1;Sim;Sim;Bom;31-40 anos
+0 a 200 DM;18;Rádio/TV;866;< 100 DM;1  a 4 anos;4;2;25;Própria;1;Informal;1;Sim;Sim;Bom;18-30 anos
+Sem conta;4;Rádio/TV;1544;< 100 DM;4 a 7 anos;2;1;42;Própria;3;Informal;2;Sim;Sim;Bom;41-50 anos
+< 0 DM;24;Rádio/TV;1823;< 100 DM;Desempregado;4;2;30;Própria;1;Autônomo/Gerência/Oficial;2;Sim;Sim;Ruim;18-30 anos
+0 a 200 DM;6;Carro Novo;14555;Sem conta;Desempregado;1;2;23;Própria;1;Desempregado;1;Não;Sim;Ruim;18-30 anos
+0 a 200 DM;21;Negócios;2767;100 a 500 DM;>= 7 anos;4;2;61;Aluguel;2;Informal;1;Sim;Sim;Ruim;60+ anos
+Sem conta;12;Rádio/TV;1291;< 100 DM;1  a 4 anos;4;2;35;Própria;2;Qualificado;1;Sim;Sim;Bom;31-40 anos
+< 0 DM;30;Rádio/TV;2522;< 100 DM;>= 7 anos;1;3;39;Própria;1;Qualificado;2;Sim;Sim;Bom;31-40 anos
+< 0 DM;24;Carro Novo;915;Sem conta;>= 7 anos;4;2;29;Própria;1;Qualificado;1;Sim;Sim;Ruim;18-30 anos
+Sem conta;6;Rádio/TV;1595;< 100 DM;4 a 7 anos;3;2;51;Própria;1;Qualificado;2;Sim;Sim;Bom;51-60 anos
+< 0 DM;48;Carro Usado;4605;< 100 DM;>= 7 anos;3;4;24;Favor;2;Qualificado;2;Sim;Sim;Ruim;18-30 anos
+Sem conta;12;Negócios;1185;< 100 DM;1  a 4 anos;3;2;27;Própria;2;Qualificado;1;Sim;Sim;Bom;18-30 anos
+Sem conta;12;Retreinamento;3447;500 a 1000 DM;1  a 4 anos;4;3;35;Própria;1;Informal;2;Sim;Sim;Bom;31-40 anos
+Sem conta;24;Negócios;1258;< 100 DM;4 a 7 anos;4;1;25;Própria;1;Qualificado;1;Não;Sim;Bom;18-30 anos
+Sem conta;12;Rádio/TV;717;< 100 DM;>= 7 anos;4;4;52;Própria;3;Qualificado;1;Sim;Sim;Bom;51-60 anos
+Sem conta;6;Carro Novo;1204;100 a 500 DM;1  a 4 anos;4;1;35;Aluguel;1;Qualificado;1;Sim;Não;Bom;31-40 anos
+>= 200 DM;24;Móveis/Equipamento;1925;< 100 DM;1  a 4 anos;2;2;26;Própria;1;Qualificado;1;Sim;Sim;Bom;18-30 anos
+Sem conta;18;Rádio/TV;433;< 100 DM;Desempregado;3;4;22;Aluguel;1;Qualificado;1;Sim;Sim;Ruim;18-30 anos
+< 0 DM;6;Carro Novo;666;>= 1000 DM;4 a 7 anos;3;4;39;Própria;2;Informal;1;Não;Sim;Bom;31-40 anos
+>= 200 DM;12;Móveis/Equipamento;2251;< 100 DM;1  a 4 anos;1;2;46;Própria;1;Informal;1;Sim;Sim;Bom;41-50 anos
+0 a 200 DM;30;Carro Novo;2150;< 100 DM;1  a 4 anos;4;2;24;Própria;1;Qualificado;1;Sim;Sim;Ruim;18-30 anos
+Sem conta;24;Móveis/Equipamento;4151;100 a 500 DM;1  a 4 anos;2;3;35;Própria;2;Qualificado;1;Sim;Sim;Bom;31-40 anos
+0 a 200 DM;9;Móveis/Equipamento;2030;Sem conta;4 a 7 anos;2;1;24;Própria;1;Qualificado;1;Não;Sim;Bom;18-30 anos
+0 a 200 DM;60;Rádio/TV;7418;Sem conta;1  a 4 anos;1;1;27;Própria;1;Informal;1;Sim;Sim;Bom;18-30 anos
+Sem conta;24;Rádio/TV;2684;< 100 DM;1  a 4 anos;4;2;35;Própria;2;Informal;1;Sim;Sim;Bom;31-40 anos
+< 0 DM;12;Rádio/TV;2149;< 100 DM;1  a 4 anos;4;1;29;Favor;1;Qualificado;1;Sim;Sim;Ruim;18-30 anos
+Sem conta;15;Carro Usado;3812;100 a 500 DM;< 1 ano;1;4;23;Própria;1;Qualificado;1;Não;Sim;Bom;18-30 anos
+Sem conta;11;Rádio/TV;1154;100 a 500 DM;Desempregado;4;4;57;Própria;3;Informal;1;Sim;Sim;Bom;51-60 anos
+< 0 DM;12;Móveis/Equipamento;1657;< 100 DM;1  a 4 anos;2;2;27;Própria;1;Qualificado;1;Sim;Sim;Bom;18-30 anos
+< 0 DM;24;Rádio/TV;1603;< 100 DM;>= 7 anos;4;4;55;Própria;1;Qualificado;1;Sim;Sim;Bom;51-60 anos
+< 0 DM;18;Carro Novo;5302;< 100 DM;>= 7 anos;2;4;36;Favor;3;Autônomo/Gerência/Oficial;1;Não;Sim;Bom;31-40 anos
+Sem conta;12;Educação;2748;< 100 DM;>= 7 anos;2;4;57;Favor;3;Informal;1;Sim;Sim;Bom;51-60 anos
+Sem conta;10;Carro Novo;1231;< 100 DM;>= 7 anos;3;4;32;Própria;2;Informal;2;Sim;Não;Bom;31-40 anos
+0 a 200 DM;15;Rádio/TV;802;< 100 DM;>= 7 anos;4;3;37;Própria;1;Qualificado;2;Sim;Sim;Ruim;31-40 anos
+Sem conta;36;Negócios;6304;Sem conta;>= 7 anos;4;4;36;Própria;2;Qualificado;1;Sim;Sim;Bom;31-40 anos
+Sem conta;24;Rádio/TV;1533;< 100 DM;< 1 ano;4;3;38;Própria;1;Qualificado;1;Não;Sim;Bom;31-40 anos
+< 0 DM;14;Carro Novo;8978;< 100 DM;>= 7 anos;1;4;45;Própria;1;Autônomo/Gerência/Oficial;1;Não;Não;Ruim;41-50 anos
+Sem conta;24;Rádio/TV;999;Sem conta;>= 7 anos;4;2;25;Própria;2;Qualificado;1;Sim;Sim;Bom;18-30 anos
+Sem conta;18;Carro Novo;2662;Sem conta;4 a 7 anos;4;3;32;Própria;1;Qualificado;1;Sim;Não;Bom;31-40 anos
+Sem conta;12;Móveis/Equipamento;1402;500 a 1000 DM;4 a 7 anos;3;4;37;Aluguel;1;Qualificado;1;Não;Sim;Bom;31-40 anos
+0 a 200 DM;48;Carro Novo;12169;Sem conta;Desempregado;4;4;36;Favor;1;Autônomo/Gerência/Oficial;1;Não;Sim;Bom;31-40 anos
+0 a 200 DM;48;Rádio/TV;3060;< 100 DM;4 a 7 anos;4;4;28;Própria;2;Qualificado;1;Sim;Sim;Ruim;18-30 anos
+< 0 DM;30;Reparos;11998;< 100 DM;< 1 ano;1;1;34;Própria;1;Informal;1;Não;Sim;Ruim;31-40 anos
+Sem conta;9;Rádio/TV;2697;< 100 DM;1  a 4 anos;1;2;32;Própria;1;Qualificado;2;Sim;Sim;Bom;31-40 anos
+Sem conta;18;Rádio/TV;2404;< 100 DM;1  a 4 anos;2;2;26;Própria;2;Qualificado;1;Sim;Sim;Bom;18-30 anos
+< 0 DM;12;Móveis/Equipamento;1262;Sem conta;>= 7 anos;2;4;49;Própria;1;Informal;1;Não;Sim;Bom;41-50 anos
+Sem conta;6;Móveis/Equipamento;4611;< 100 DM;< 1 ano;1;4;32;Própria;1;Qualificado;1;Sim;Sim;Ruim;31-40 anos
+Sem conta;24;Rádio/TV;1901;100 a 500 DM;1  a 4 anos;4;4;29;Aluguel;1;Autônomo/Gerência/Oficial;1;Não;Sim;Bom;18-30 anos
+Sem conta;15;Carro Usado;3368;>= 1000 DM;>= 7 anos;3;4;23;Aluguel;2;Qualificado;1;Não;Sim;Bom;18-30 anos
+Sem conta;12;Móveis/Equipamento;1574;< 100 DM;1  a 4 anos;4;2;50;Própria;1;Qualificado;1;Sim;Sim;Bom;41-50 anos
+>= 200 DM;18;Rádio/TV;1445;Sem conta;4 a 7 anos;4;4;49;Própria;1;Informal;1;Sim;Sim;Bom;41-50 anos
+Sem conta;15;Móveis/Equipamento;1520;Sem conta;>= 7 anos;4;4;63;Própria;1;Qualificado;1;Sim;Sim;Bom;60+ anos
+0 a 200 DM;24;Carro Novo;3878;100 a 500 DM;< 1 ano;4;2;37;Própria;1;Qualificado;1;Não;Sim;Bom;31-40 anos
+< 0 DM;47;Carro Novo;10722;< 100 DM;< 1 ano;1;1;35;Própria;1;Informal;1;Não;Sim;Bom;31-40 anos
+< 0 DM;48;Carro Usado;4788;< 100 DM;4 a 7 anos;4;3;26;Própria;1;Qualificado;2;Sim;Sim;Bom;18-30 anos
+0 a 200 DM;48;Outros;7582;100 a 500 DM;Desempregado;2;4;31;Favor;1;Autônomo/Gerência/Oficial;1;Não;Sim;Bom;31-40 anos
+0 a 200 DM;12;Rádio/TV;1092;< 100 DM;1  a 4 anos;4;4;49;Própria;2;Qualificado;1;Não;Sim;Bom;41-50 anos
+< 0 DM;24;Rádio/TV;1024;< 100 DM;< 1 ano;4;4;48;Própria;1;Qualificado;1;Sim;Sim;Ruim;41-50 anos
+Sem conta;12;Negócios;1076;< 100 DM;1  a 4 anos;2;2;26;Própria;1;Qualificado;1;Não;Não;Bom;18-30 anos
+0 a 200 DM;36;Carro Usado;9398;< 100 DM;< 1 ano;1;4;28;Aluguel;1;Autônomo/Gerência/Oficial;1;Não;Sim;Ruim;18-30 anos
+< 0 DM;24;Carro Usado;6419;< 100 DM;>= 7 anos;2;4;44;Favor;2;Autônomo/Gerência/Oficial;2;Não;Sim;Bom;41-50 anos
+>= 200 DM;42;Carro Usado;4796;< 100 DM;>= 7 anos;4;4;56;Favor;1;Qualificado;1;Sim;Sim;Bom;51-60 anos
+Sem conta;48;Negócios;7629;Sem conta;>= 7 anos;4;2;46;Própria;2;Autônomo/Gerência/Oficial;2;Sim;Sim;Bom;41-50 anos
+0 a 200 DM;48;Móveis/Equipamento;9960;< 100 DM;< 1 ano;1;2;26;Própria;1;Qualificado;1;Não;Sim;Ruim;18-30 anos
+Sem conta;12;Carro Usado;4675;Sem conta;< 1 ano;1;4;20;Aluguel;1;Qualificado;1;Sim;Sim;Bom;18-30 anos
+Sem conta;10;Carro Novo;1287;Sem conta;>= 7 anos;4;2;45;Própria;1;Informal;1;Sim;Não;Bom;41-50 anos
+Sem conta;18;Móveis/Equipamento;2515;< 100 DM;1  a 4 anos;3;4;43;Própria;1;Qualificado;1;Não;Sim;Bom;41-50 anos
+0 a 200 DM;21;Móveis/Equipamento;2745;>= 1000 DM;4 a 7 anos;3;2;32;Própria;2;Qualificado;1;Não;Sim;Bom;31-40 anos
+Sem conta;6;Carro Novo;672;< 100 DM;Desempregado;1;4;54;Própria;1;Desempregado;1;Não;Sim;Bom;51-60 anos
+0 a 200 DM;36;Rádio/TV;3804;< 100 DM;1  a 4 anos;4;1;42;Própria;1;Qualificado;1;Não;Sim;Ruim;41-50 anos
+>= 200 DM;24;Carro Novo;1344;Sem conta;4 a 7 anos;4;2;37;Própria;2;Informal;2;Sim;Sim;Ruim;31-40 anos
+< 0 DM;10;Carro Novo;1038;< 100 DM;4 a 7 anos;4;3;49;Própria;2;Qualificado;1;Não;Sim;Bom;41-50 anos
+Sem conta;48;Carro Novo;10127;500 a 1000 DM;1  a 4 anos;2;2;44;Favor;1;Qualificado;1;Sim;Sim;Ruim;41-50 anos
+Sem conta;6;Móveis/Equipamento;1543;>= 1000 DM;1  a 4 anos;4;2;33;Própria;1;Qualificado;1;Sim;Sim;Bom;31-40 anos
+Sem conta;30;Carro Usado;4811;Sem conta;4 a 7 anos;2;4;24;Aluguel;1;Informal;1;Sim;Sim;Bom;18-30 anos
+< 0 DM;12;Rádio/TV;727;100 a 500 DM;< 1 ano;4;3;33;Própria;1;Informal;1;Não;Sim;Ruim;31-40 anos
+0 a 200 DM;8;Móveis/Equipamento;1237;< 100 DM;1  a 4 anos;3;4;24;Própria;1;Qualificado;1;Sim;Sim;Ruim;18-30 anos
+0 a 200 DM;9;Carro Novo;276;< 100 DM;1  a 4 anos;4;4;22;Aluguel;1;Informal;1;Sim;Sim;Bom;18-30 anos
+0 a 200 DM;48;Outros;5381;Sem conta;Desempregado;3;4;40;Favor;1;Desempregado;1;Não;Sim;Bom;31-40 anos
+Sem conta;24;Móveis/Equipamento;5511;100 a 500 DM;1  a 4 anos;4;1;25;Própria;1;Qualificado;1;Sim;Sim;Bom;18-30 anos
+>= 200 DM;24;Móveis/Equipamento;3749;< 100 DM;< 1 ano;2;4;26;Própria;1;Qualificado;1;Sim;Sim;Bom;18-30 anos
+0 a 200 DM;12;Carro Novo;685;< 100 DM;4 a 7 anos;2;3;25;Própria;1;Informal;1;Sim;Sim;Ruim;18-30 anos
+>= 200 DM;4;Carro Novo;1494;Sem conta;< 1 ano;1;2;29;Própria;1;Informal;2;Sim;Não;Bom;18-30 anos
+< 0 DM;36;Móveis/Equipamento;2746;< 100 DM;>= 7 anos;4;4;31;Própria;1;Qualificado;1;Sim;Sim;Ruim;31-40 anos
+< 0 DM;12;Móveis/Equipamento;708;< 100 DM;1  a 4 anos;2;3;38;Própria;1;Informal;2;Sim;Sim;Bom;31-40 anos
+0 a 200 DM;24;Móveis/Equipamento;4351;Sem conta;1  a 4 anos;1;4;48;Própria;1;Informal;1;Não;Sim;Bom;41-50 anos
+Sem conta;12;Educação;701;< 100 DM;1  a 4 anos;4;2;32;Própria;2;Qualificado;1;Sim;Sim;Bom;31-40 anos
+< 0 DM;15;Móveis/Equipamento;3643;< 100 DM;>= 7 anos;1;4;27;Própria;2;Informal;1;Sim;Sim;Bom;18-30 anos
+0 a 200 DM;30;Carro Novo;4249;< 100 DM;Desempregado;4;2;28;Própria;2;Autônomo/Gerência/Oficial;1;Sim;Sim;Ruim;18-30 anos
+< 0 DM;24;Rádio/TV;1938;< 100 DM;< 1 ano;4;3;32;Própria;1;Qualificado;1;Sim;Sim;Ruim;31-40 anos
+< 0 DM;24;Carro Usado;2910;< 100 DM;4 a 7 anos;2;1;34;Favor;1;Autônomo/Gerência/Oficial;1;Não;Sim;Bom;31-40 anos
+< 0 DM;18;Móveis/Equipamento;2659;>= 1000 DM;1  a 4 anos;4;2;28;Própria;1;Qualificado;1;Sim;Sim;Bom;18-30 anos
+Sem conta;18;Carro Novo;1028;< 100 DM;1  a 4 anos;4;3;36;Própria;2;Qualificado;1;Sim;Sim;Bom;31-40 anos
+< 0 DM;8;Carro Novo;3398;< 100 DM;4 a 7 anos;1;4;39;Própria;2;Informal;1;Sim;Não;Bom;31-40 anos
+Sem conta;12;Móveis/Equipamento;5801;Sem conta;>= 7 anos;2;4;49;Aluguel;1;Qualificado;1;Não;Sim;Bom;41-50 anos
+Sem conta;24;Carro Novo;1525;>= 1000 DM;4 a 7 anos;4;3;34;Própria;1;Qualificado;2;Não;Sim;Bom;31-40 anos
+>= 200 DM;36;Rádio/TV;4473;< 100 DM;>= 7 anos;4;2;31;Própria;1;Qualificado;1;Sim;Sim;Bom;31-40 anos
+0 a 200 DM;6;Rádio/TV;1068;< 100 DM;>= 7 anos;4;4;28;Própria;1;Qualificado;2;Sim;Sim;Bom;18-30 anos
+< 0 DM;24;Carro Usado;6615;< 100 DM;Desempregado;2;4;75;Favor;2;Autônomo/Gerência/Oficial;1;Não;Sim;Bom;60+ anos
+Sem conta;18;Educação;1864;100 a 500 DM;1  a 4 anos;4;2;30;Própria;2;Qualificado;1;Sim;Sim;Ruim;18-30 anos
+0 a 200 DM;60;Carro Novo;7408;100 a 500 DM;< 1 ano;4;2;24;Própria;1;Autônomo/Gerência/Oficial;1;Sim;Sim;Ruim;18-30 anos
+Sem conta;48;Carro Usado;11590;100 a 500 DM;1  a 4 anos;2;4;24;Aluguel;2;Informal;1;Sim;Sim;Ruim;18-30 anos
+< 0 DM;24;Móveis/Equipamento;4110;< 100 DM;>= 7 anos;3;4;23;Aluguel;2;Qualificado;2;Sim;Sim;Ruim;18-30 anos
+< 0 DM;6;Móveis/Equipamento;3384;< 100 DM;1  a 4 anos;1;4;44;Aluguel;1;Autônomo/Gerência/Oficial;1;Não;Sim;Ruim;41-50 anos
+0 a 200 DM;13;Rádio/TV;2101;< 100 DM;< 1 ano;2;4;23;Própria;1;Informal;1;Sim;Sim;Bom;18-30 anos
+< 0 DM;15;Eletrodomésticos;1275;Sem conta;1  a 4 anos;4;2;24;Aluguel;1;Qualificado;1;Sim;Sim;Ruim;18-30 anos
+< 0 DM;24;Móveis/Equipamento;4169;< 100 DM;1  a 4 anos;4;4;28;Própria;1;Qualificado;1;Sim;Sim;Bom;18-30 anos
+0 a 200 DM;10;Móveis/Equipamento;1521;< 100 DM;1  a 4 anos;4;2;31;Própria;1;Informal;1;Sim;Sim;Bom;31-40 anos
+0 a 200 DM;24;Educação;5743;< 100 DM;< 1 ano;2;4;24;Favor;2;Qualificado;1;Não;Sim;Bom;18-30 anos
+< 0 DM;21;Móveis/Equipamento;3599;< 100 DM;4 a 7 anos;1;4;26;Aluguel;1;Informal;1;Sim;Sim;Bom;18-30 anos
+0 a 200 DM;18;Rádio/TV;3213;500 a 1000 DM;< 1 ano;1;3;25;Aluguel;1;Qualificado;1;Sim;Sim;Bom;18-30 anos
+0 a 200 DM;18;Negócios;4439;< 100 DM;>= 7 anos;1;1;33;Própria;1;Autônomo/Gerência/Oficial;1;Não;Sim;Bom;31-40 anos
+>= 200 DM;10;Carro Novo;3949;< 100 DM;< 1 ano;1;1;37;Própria;1;Informal;2;Sim;Sim;Bom;31-40 anos
+Sem conta;15;Rádio/TV;1459;< 100 DM;1  a 4 anos;4;2;43;Própria;1;Informal;1;Sim;Sim;Bom;41-50 anos
+0 a 200 DM;13;Rádio/TV;882;< 100 DM;< 1 ano;4;4;23;Própria;2;Qualificado;1;Sim;Sim;Bom;18-30 anos
+0 a 200 DM;24;Rádio/TV;3758;500 a 1000 DM;Desempregado;1;4;23;Aluguel;1;Desempregado;1;Sim;Sim;Bom;18-30 anos
+Sem conta;6;Negócios;1743;100 a 500 DM;1  a 4 anos;1;2;34;Própria;2;Informal;1;Sim;Sim;Bom;31-40 anos
+0 a 200 DM;9;Educação;1136;>= 1000 DM;>= 7 anos;4;3;32;Favor;2;Qualificado;2;Sim;Sim;Ruim;31-40 anos
+Sem conta;9;Eletrodomésticos;1236;< 100 DM;< 1 ano;1;4;23;Aluguel;1;Qualificado;1;Não;Sim;Bom;18-30 anos
+0 a 200 DM;9;Móveis/Equipamento;959;< 100 DM;1  a 4 anos;1;2;29;Própria;1;Qualificado;1;Sim;Não;Ruim;18-30 anos
+Sem conta;18;Carro Usado;3229;Sem conta;Desempregado;2;4;38;Própria;1;Autônomo/Gerência/Oficial;1;Não;Sim;Bom;31-40 anos
+< 0 DM;12;Rádio/TV;6199;< 100 DM;1  a 4 anos;4;2;28;Aluguel;2;Qualificado;1;Não;Sim;Ruim;18-30 anos
+Sem conta;10;Educação;727;500 a 1000 DM;>= 7 anos;4;4;46;Favor;1;Qualificado;1;Não;Sim;Bom;41-50 anos
+0 a 200 DM;24;Carro Novo;1246;< 100 DM;< 1 ano;4;2;23;Própria;1;Informal;1;Sim;Sim;Ruim;18-30 anos
+Sem conta;12;Rádio/TV;2331;Sem conta;>= 7 anos;1;4;49;Própria;1;Qualificado;1;Não;Sim;Bom;41-50 anos
+Sem conta;36;Rádio/TV;4463;< 100 DM;1  a 4 anos;4;2;26;Própria;2;Autônomo/Gerência/Oficial;1;Não;Sim;Ruim;18-30 anos
+Sem conta;12;Rádio/TV;776;< 100 DM;1  a 4 anos;4;2;28;Própria;1;Qualificado;1;Sim;Sim;Bom;18-30 anos
+< 0 DM;30;Móveis/Equipamento;2406;< 100 DM;4 a 7 anos;4;4;23;Aluguel;1;Qualificado;1;Sim;Sim;Ruim;18-30 anos
+0 a 200 DM;18;Educação;1239;Sem conta;1  a 4 anos;4;4;61;Favor;1;Qualificado;1;Sim;Sim;Bom;60+ anos
+>= 200 DM;12;Rádio/TV;3399;Sem conta;>= 7 anos;2;3;37;Própria;1;Autônomo/Gerência/Oficial;1;Sim;Sim;Bom;31-40 anos
+>= 200 DM;12;Carro Novo;2247;< 100 DM;1  a 4 anos;2;2;36;Própria;2;Qualificado;1;Não;Sim;Bom;31-40 anos
+Sem conta;6;Móveis/Equipamento;1766;< 100 DM;1  a 4 anos;1;2;21;Aluguel;1;Qualificado;1;Sim;Sim;Bom;18-30 anos
+< 0 DM;18;Móveis/Equipamento;2473;< 100 DM;Desempregado;4;1;25;Própria;1;Desempregado;1;Sim;Sim;Ruim;18-30 anos
+Sem conta;12;Negócios;1542;< 100 DM;4 a 7 anos;2;4;36;Própria;1;Qualificado;1;Não;Sim;Bom;31-40 anos
+Sem conta;18;Carro Usado;3850;< 100 DM;4 a 7 anos;3;1;27;Própria;2;Qualificado;1;Sim;Sim;Bom;18-30 anos
+< 0 DM;18;Móveis/Equipamento;3650;< 100 DM;< 1 ano;1;4;22;Aluguel;1;Qualificado;1;Sim;Sim;Bom;18-30 anos
+< 0 DM;36;Móveis/Equipamento;3446;< 100 DM;>= 7 anos;4;2;42;Própria;1;Qualificado;2;Sim;Sim;Ruim;41-50 anos
+0 a 200 DM;18;Móveis/Equipamento;3001;< 100 DM;4 a 7 anos;2;4;40;Aluguel;1;Qualificado;1;Sim;Sim;Bom;31-40 anos
+Sem conta;36;Carro Novo;3079;Sem conta;1  a 4 anos;4;4;36;Própria;1;Qualificado;1;Sim;Sim;Bom;31-40 anos
+Sem conta;18;Rádio/TV;6070;< 100 DM;>= 7 anos;3;4;33;Própria;2;Qualificado;1;Não;Sim;Bom;31-40 anos
+Sem conta;10;Móveis/Equipamento;2146;< 100 DM;< 1 ano;1;3;23;Aluguel;2;Qualificado;1;Sim;Sim;Bom;18-30 anos
+Sem conta;60;Carro Novo;13756;Sem conta;>= 7 anos;2;4;63;Favor;1;Autônomo/Gerência/Oficial;1;Não;Sim;Bom;60+ anos
+0 a 200 DM;60;Outros;14782;100 a 500 DM;>= 7 anos;3;4;60;Favor;2;Autônomo/Gerência/Oficial;1;Não;Sim;Ruim;51-60 anos
+< 0 DM;48;Negócios;7685;< 100 DM;4 a 7 anos;2;4;37;Aluguel;1;Qualificado;1;Sim;Sim;Ruim;31-40 anos
+Sem conta;18;Rádio/TV;2320;< 100 DM;Desempregado;2;3;34;Própria;2;Qualificado;1;Sim;Sim;Bom;31-40 anos
+Sem conta;7;Rádio/TV;846;Sem conta;>= 7 anos;3;4;36;Favor;1;Qualificado;1;Sim;Sim;Bom;31-40 anos
+0 a 200 DM;36;Carro Novo;14318;< 100 DM;>= 7 anos;4;2;57;Favor;1;Autônomo/Gerência/Oficial;1;Não;Sim;Ruim;51-60 anos
+Sem conta;6;Carro Novo;362;100 a 500 DM;1  a 4 anos;4;4;52;Própria;2;Informal;1;Sim;Sim;Bom;51-60 anos
+< 0 DM;20;Móveis/Equipamento;2212;Sem conta;4 a 7 anos;4;4;39;Própria;1;Qualificado;1;Não;Sim;Bom;31-40 anos
+0 a 200 DM;18;Carro Usado;12976;< 100 DM;Desempregado;3;4;38;Favor;1;Autônomo/Gerência/Oficial;1;Não;Sim;Ruim;31-40 anos
+Sem conta;22;Carro Novo;1283;Sem conta;4 a 7 anos;4;4;25;Aluguel;1;Qualificado;1;Sim;Sim;Bom;18-30 anos
+>= 200 DM;12;Carro Novo;1330;< 100 DM;< 1 ano;4;1;26;Própria;1;Qualificado;1;Sim;Sim;Bom;18-30 anos
+Sem conta;30;Negócios;4272;100 a 500 DM;1  a 4 anos;2;2;26;Própria;2;Informal;1;Sim;Sim;Bom;18-30 anos
+Sem conta;18;Rádio/TV;2238;< 100 DM;1  a 4 anos;2;1;25;Própria;2;Qualificado;1;Sim;Sim;Bom;18-30 anos
+Sem conta;18;Rádio/TV;1126;Sem conta;< 1 ano;4;2;21;Aluguel;1;Qualificado;1;Não;Sim;Bom;18-30 anos
+0 a 200 DM;18;Móveis/Equipamento;7374;< 100 DM;Desempregado;4;4;40;Própria;2;Autônomo/Gerência/Oficial;1;Não;Sim;Bom;31-40 anos
+0 a 200 DM;15;Negócios;2326;500 a 1000 DM;1  a 4 anos;2;4;27;Própria;1;Qualificado;1;Sim;Sim;Bom;18-30 anos
+Sem conta;9;Negócios;1449;< 100 DM;4 a 7 anos;3;2;27;Própria;2;Qualificado;1;Sim;Sim;Bom;18-30 anos
+Sem conta;18;Carro Novo;1820;< 100 DM;1  a 4 anos;2;2;30;Própria;1;Autônomo/Gerência/Oficial;1;Não;Sim;Bom;18-30 anos
+0 a 200 DM;12;Móveis/Equipamento;983;>= 1000 DM;< 1 ano;1;4;19;Aluguel;1;Informal;1;Sim;Sim;Bom;18-30 anos
+< 0 DM;36;Carro Novo;3249;< 100 DM;4 a 7 anos;2;4;39;Favor;1;Autônomo/Gerência/Oficial;2;Não;Sim;Bom;31-40 anos
+< 0 DM;6;Rádio/TV;1957;< 100 DM;4 a 7 anos;1;4;31;Própria;1;Qualificado;1;Sim;Sim;Bom;31-40 anos
+Sem conta;9;Móveis/Equipamento;2406;< 100 DM;Desempregado;2;3;31;Própria;1;Autônomo/Gerência/Oficial;1;Sim;Sim;Bom;31-40 anos
+0 a 200 DM;39;Educação;11760;100 a 500 DM;4 a 7 anos;2;3;32;Aluguel;1;Qualificado;1;Não;Sim;Bom;31-40 anos
+< 0 DM;12;Móveis/Equipamento;2578;< 100 DM;Desempregado;3;4;55;Favor;1;Autônomo/Gerência/Oficial;1;Sim;Sim;Bom;51-60 anos
+< 0 DM;36;Móveis/Equipamento;2348;< 100 DM;1  a 4 anos;3;2;46;Própria;2;Qualificado;1;Não;Sim;Bom;41-50 anos
+0 a 200 DM;12;Carro Novo;1223;< 100 DM;>= 7 anos;1;1;46;Aluguel;2;Qualificado;1;Sim;Sim;Ruim;41-50 anos
+Sem conta;24;Rádio/TV;1516;>= 1000 DM;1  a 4 anos;4;1;43;Própria;2;Informal;1;Sim;Sim;Bom;41-50 anos
+Sem conta;18;Rádio/TV;1473;< 100 DM;< 1 ano;3;4;39;Própria;1;Qualificado;1;Não;Sim;Bom;31-40 anos
+0 a 200 DM;18;Negócios;1887;Sem conta;1  a 4 anos;4;4;28;Própria;2;Qualificado;1;Sim;Sim;Bom;18-30 anos
+Sem conta;24;Negócios;8648;< 100 DM;< 1 ano;2;2;27;Própria;2;Qualificado;1;Não;Sim;Ruim;18-30 anos
+Sem conta;14;Carro Novo;802;< 100 DM;1  a 4 anos;4;2;27;Própria;2;Informal;1;Sim;Sim;Bom;18-30 anos
+0 a 200 DM;18;Carro Novo;2899;Sem conta;>= 7 anos;4;4;43;Própria;1;Qualificado;2;Sim;Sim;Bom;41-50 anos
+0 a 200 DM;24;Rádio/TV;2039;< 100 DM;< 1 ano;1;1;22;Própria;1;Qualificado;1;Não;Sim;Ruim;18-30 anos
+Sem conta;24;Carro Usado;2197;Sem conta;4 a 7 anos;4;4;43;Própria;2;Qualificado;2;Não;Sim;Bom;41-50 anos
+< 0 DM;15;Rádio/TV;1053;< 100 DM;< 1 ano;4;2;27;Própria;1;Qualificado;1;Sim;Não;Bom;18-30 anos
+Sem conta;24;Rádio/TV;3235;500 a 1000 DM;>= 7 anos;3;2;26;Própria;1;Autônomo/Gerência/Oficial;1;Não;Sim;Bom;18-30 anos
+>= 200 DM;12;Carro Novo;939;500 a 1000 DM;4 a 7 anos;4;2;28;Própria;3;Qualificado;1;Não;Sim;Ruim;18-30 anos
+0 a 200 DM;24;Rádio/TV;1967;< 100 DM;>= 7 anos;4;4;20;Própria;1;Qualificado;1;Não;Sim;Bom;18-30 anos
+Sem conta;33;Carro Usado;7253;< 100 DM;4 a 7 anos;3;2;35;Própria;2;Autônomo/Gerência/Oficial;1;Não;Sim;Bom;31-40 anos
+Sem conta;12;Negócios;2292;< 100 DM;Desempregado;4;2;42;Própria;2;Autônomo/Gerência/Oficial;1;Não;Sim;Ruim;41-50 anos
+Sem conta;10;Carro Novo;1597;500 a 1000 DM;1  a 4 anos;3;2;40;Aluguel;1;Informal;2;Sim;Não;Bom;31-40 anos
+< 0 DM;24;Carro Novo;1381;Sem conta;1  a 4 anos;4;2;35;Própria;1;Qualificado;1;Sim;Sim;Ruim;31-40 anos
+Sem conta;36;Carro Usado;5842;< 100 DM;>= 7 anos;2;2;35;Própria;2;Qualificado;2;Não;Sim;Bom;31-40 anos
+< 0 DM;12;Carro Novo;2579;< 100 DM;< 1 ano;4;1;33;Própria;1;Informal;2;Sim;Sim;Ruim;31-40 anos
+< 0 DM;18;Educação;8471;Sem conta;1  a 4 anos;1;2;23;Aluguel;2;Qualificado;1;Não;Sim;Bom;18-30 anos
+Sem conta;21;Carro Novo;2782;500 a 1000 DM;4 a 7 anos;1;2;31;Própria;1;Autônomo/Gerência/Oficial;1;Sim;Sim;Bom;31-40 anos
+0 a 200 DM;18;Carro Novo;1042;Sem conta;1  a 4 anos;4;2;33;Própria;1;Qualificado;1;Sim;Sim;Ruim;31-40 anos
+Sem conta;15;Carro Novo;3186;>= 1000 DM;4 a 7 anos;2;3;20;Aluguel;1;Qualificado;1;Sim;Sim;Bom;18-30 anos
+0 a 200 DM;12;Carro Usado;2028;Sem conta;1  a 4 anos;4;2;30;Própria;1;Qualificado;1;Sim;Sim;Bom;18-30 anos
+0 a 200 DM;12;Carro Novo;958;< 100 DM;4 a 7 anos;2;3;47;Própria;2;Informal;2;Sim;Sim;Bom;41-50 anos
+Sem conta;21;Móveis/Equipamento;1591;100 a 500 DM;4 a 7 anos;4;3;34;Própria;2;Autônomo/Gerência/Oficial;1;Sim;Sim;Bom;31-40 anos
+0 a 200 DM;12;Móveis/Equipamento;2762;Sem conta;>= 7 anos;1;2;25;Própria;1;Qualificado;1;Não;Sim;Ruim;18-30 anos
+0 a 200 DM;18;Carro Usado;2779;< 100 DM;1  a 4 anos;1;3;21;Aluguel;1;Qualificado;1;Não;Sim;Bom;18-30 anos
+Sem conta;28;Rádio/TV;2743;< 100 DM;>= 7 anos;4;2;29;Própria;2;Qualificado;1;Sim;Sim;Bom;18-30 anos
+Sem conta;18;Rádio/TV;1149;>= 1000 DM;1  a 4 anos;4;3;46;Própria;2;Qualificado;1;Sim;Sim;Bom;41-50 anos
+Sem conta;9;Móveis/Equipamento;1313;< 100 DM;>= 7 anos;1;4;20;Própria;1;Qualificado;1;Sim;Sim;Bom;18-30 anos
+< 0 DM;18;Reparos;1190;< 100 DM;Desempregado;2;4;55;Favor;3;Desempregado;2;Sim;Sim;Ruim;51-60 anos
+Sem conta;5;Negócios;3448;< 100 DM;4 a 7 anos;1;4;74;Própria;1;Informal;1;Sim;Sim;Bom;60+ anos
+0 a 200 DM;24;Outros;11328;< 100 DM;1  a 4 anos;2;3;29;Própria;2;Autônomo/Gerência/Oficial;1;Não;Sim;Ruim;18-30 anos
+< 0 DM;6;Móveis/Equipamento;1872;< 100 DM;Desempregado;4;4;36;Favor;3;Autônomo/Gerência/Oficial;1;Não;Sim;Bom;31-40 anos
+Sem conta;24;Reparos;2058;< 100 DM;1  a 4 anos;4;2;33;Própria;2;Qualificado;1;Não;Sim;Bom;31-40 anos
+< 0 DM;9;Móveis/Equipamento;2136;< 100 DM;1  a 4 anos;3;2;25;Própria;1;Qualificado;1;Sim;Sim;Bom;18-30 anos
+0 a 200 DM;12;Rádio/TV;1484;Sem conta;1  a 4 anos;2;1;25;Própria;1;Qualificado;1;Não;Sim;Ruim;18-30 anos
+Sem conta;6;Reparos;660;500 a 1000 DM;4 a 7 anos;2;4;23;Aluguel;1;Informal;1;Sim;Sim;Bom;18-30 anos
+Sem conta;24;Carro Novo;1287;>= 1000 DM;>= 7 anos;4;4;37;Própria;2;Qualificado;1;Não;Sim;Bom;31-40 anos
+< 0 DM;42;Reparos;3394;< 100 DM;Desempregado;4;4;65;Própria;2;Desempregado;1;Sim;Sim;Bom;60+ anos
+>= 200 DM;12;Negócios;609;< 100 DM;< 1 ano;4;1;26;Própria;1;Desempregado;1;Sim;Sim;Ruim;18-30 anos
+Sem conta;12;Carro Novo;1884;< 100 DM;>= 7 anos;4;4;39;Própria;1;Autônomo/Gerência/Oficial;1;Não;Sim;Bom;31-40 anos
+< 0 DM;12;Móveis/Equipamento;1620;< 100 DM;1  a 4 anos;2;3;30;Própria;1;Qualificado;1;Sim;Sim;Bom;18-30 anos
+0 a 200 DM;20;Outros;2629;< 100 DM;1  a 4 anos;2;3;29;Própria;2;Qualificado;1;Não;Sim;Bom;18-30 anos
+Sem conta;12;Educação;719;< 100 DM;>= 7 anos;4;4;41;Própria;1;Informal;2;Sim;Sim;Ruim;41-50 anos
+0 a 200 DM;48;Móveis/Equipamento;5096;< 100 DM;1  a 4 anos;2;3;30;Própria;1;Autônomo/Gerência/Oficial;1;Não;Sim;Ruim;18-30 anos
+Sem conta;9;Educação;1244;Sem conta;>= 7 anos;4;4;41;Aluguel;2;Informal;1;Sim;Sim;Bom;41-50 anos
+< 0 DM;36;Carro Novo;1842;< 100 DM;< 1 ano;4;4;34;Própria;1;Qualificado;1;Não;Sim;Ruim;31-40 anos
+0 a 200 DM;7;Rádio/TV;2576;< 100 DM;1  a 4 anos;2;2;35;Própria;1;Qualificado;1;Sim;Sim;Bom;31-40 anos
+>= 200 DM;12;Móveis/Equipamento;1424;Sem conta;>= 7 anos;3;4;55;Própria;1;Autônomo/Gerência/Oficial;1;Não;Sim;Bom;51-60 anos
+0 a 200 DM;15;Reparos;1512;>= 1000 DM;1  a 4 anos;3;3;61;Própria;2;Qualificado;1;Sim;Sim;Ruim;60+ anos
+Sem conta;36;Carro Usado;11054;Sem conta;1  a 4 anos;4;2;30;Própria;1;Autônomo/Gerência/Oficial;1;Não;Sim;Bom;18-30 anos
+Sem conta;6;Rádio/TV;518;< 100 DM;1  a 4 anos;3;1;29;Própria;1;Qualificado;1;Sim;Sim;Bom;18-30 anos
+Sem conta;12;Móveis/Equipamento;2759;< 100 DM;>= 7 anos;2;4;34;Própria;2;Qualificado;1;Sim;Sim;Bom;31-40 anos
+Sem conta;24;Carro Usado;2670;< 100 DM;>= 7 anos;4;4;35;Própria;1;Autônomo/Gerência/Oficial;1;Não;Sim;Bom;31-40 anos
+< 0 DM;24;Carro Novo;4817;< 100 DM;4 a 7 anos;2;3;31;Própria;1;Qualificado;1;Não;Sim;Ruim;31-40 anos
+Sem conta;24;Carro Usado;2679;< 100 DM;< 1 ano;4;1;29;Própria;1;Autônomo/Gerência/Oficial;1;Não;Sim;Bom;18-30 anos
+< 0 DM;11;Carro Novo;3905;< 100 DM;1  a 4 anos;2;2;36;Aluguel;2;Qualificado;2;Sim;Sim;Bom;31-40 anos
+< 0 DM;12;Carro Usado;3386;< 100 DM;>= 7 anos;3;4;35;Favor;1;Qualificado;1;Não;Sim;Ruim;31-40 anos
+< 0 DM;6;Eletrodomésticos;343;< 100 DM;< 1 ano;4;1;27;Própria;1;Qualificado;1;Sim;Sim;Bom;18-30 anos
+Sem conta;18;Rádio/TV;4594;< 100 DM;< 1 ano;3;2;32;Própria;1;Qualificado;1;Não;Sim;Bom;31-40 anos
+< 0 DM;36;Móveis/Equipamento;3620;< 100 DM;1  a 4 anos;1;2;37;Própria;1;Qualificado;2;Sim;Sim;Bom;31-40 anos
+< 0 DM;15;Carro Novo;1721;< 100 DM;< 1 ano;2;3;36;Própria;1;Qualificado;1;Sim;Sim;Bom;31-40 anos
+0 a 200 DM;12;Móveis/Equipamento;3017;< 100 DM;< 1 ano;3;1;34;Aluguel;1;Autônomo/Gerência/Oficial;1;Sim;Sim;Bom;31-40 anos
+0 a 200 DM;12;Retreinamento;754;Sem conta;>= 7 anos;4;4;38;Própria;2;Qualificado;1;Sim;Sim;Bom;31-40 anos
+Sem conta;18;Negócios;1950;< 100 DM;4 a 7 anos;4;1;34;Própria;2;Qualificado;1;Não;Sim;Bom;31-40 anos
+< 0 DM;24;Carro Usado;2924;< 100 DM;1  a 4 anos;3;4;63;Própria;1;Qualificado;2;Não;Sim;Bom;60+ anos
+< 0 DM;24;Rádio/TV;1659;< 100 DM;< 1 ano;4;2;29;Aluguel;1;Informal;1;Não;Sim;Ruim;18-30 anos
+Sem conta;48;Rádio/TV;7238;Sem conta;>= 7 anos;3;3;32;Própria;2;Qualificado;2;Sim;Sim;Bom;31-40 anos
+Sem conta;33;Negócios;2764;< 100 DM;1  a 4 anos;2;2;26;Própria;2;Qualificado;1;Não;Sim;Bom;18-30 anos
+Sem conta;24;Carro Usado;4679;< 100 DM;4 a 7 anos;3;3;35;Própria;2;Informal;1;Não;Sim;Bom;31-40 anos
+0 a 200 DM;24;Rádio/TV;3092;100 a 500 DM;< 1 ano;3;2;22;Aluguel;1;Qualificado;1;Não;Sim;Ruim;18-30 anos
+< 0 DM;6;Educação;448;< 100 DM;< 1 ano;4;4;23;Própria;1;Qualificado;1;Sim;Sim;Ruim;18-30 anos
+< 0 DM;9;Carro Novo;654;< 100 DM;1  a 4 anos;4;3;28;Própria;1;Informal;1;Sim;Sim;Ruim;18-30 anos
+Sem conta;6;Retreinamento;1238;Sem conta;Desempregado;4;4;36;Própria;1;Autônomo/Gerência/Oficial;2;Não;Sim;Bom;31-40 anos
+0 a 200 DM;18;Rádio/TV;1245;< 100 DM;1  a 4 anos;4;2;33;Própria;1;Qualificado;1;Sim;Sim;Ruim;31-40 anos
+< 0 DM;18;Móveis/Equipamento;3114;< 100 DM;< 1 ano;1;4;26;Aluguel;1;Qualificado;1;Sim;Sim;Ruim;18-30 anos
+Sem conta;39;Carro Usado;2569;500 a 1000 DM;1  a 4 anos;4;4;24;Própria;1;Qualificado;1;Sim;Sim;Bom;18-30 anos
+>= 200 DM;24;Rádio/TV;5152;< 100 DM;4 a 7 anos;4;2;25;Própria;1;Qualificado;1;Sim;Sim;Bom;18-30 anos
+0 a 200 DM;12;Negócios;1037;100 a 500 DM;4 a 7 anos;3;4;39;Própria;1;Informal;1;Sim;Sim;Bom;31-40 anos
+< 0 DM;15;Móveis/Equipamento;1478;< 100 DM;>= 7 anos;4;4;44;Própria;2;Qualificado;2;Não;Sim;Bom;41-50 anos
+0 a 200 DM;12;Rádio/TV;3573;< 100 DM;1  a 4 anos;1;1;23;Própria;1;Informal;1;Sim;Sim;Bom;18-30 anos
+0 a 200 DM;24;Carro Novo;1201;< 100 DM;< 1 ano;4;1;26;Própria;1;Qualificado;1;Sim;Sim;Bom;18-30 anos
+< 0 DM;30;Móveis/Equipamento;3622;>= 1000 DM;>= 7 anos;4;4;57;Aluguel;2;Qualificado;1;Não;Sim;Bom;51-60 anos
+Sem conta;15;Móveis/Equipamento;960;>= 1000 DM;4 a 7 anos;3;2;30;Própria;2;Qualificado;1;Sim;Sim;Bom;18-30 anos
+Sem conta;12;Carro Novo;1163;500 a 1000 DM;1  a 4 anos;4;4;44;Própria;1;Qualificado;1;Não;Sim;Bom;41-50 anos
+0 a 200 DM;6;Carro Novo;1209;< 100 DM;Desempregado;4;4;47;Própria;1;Autônomo/Gerência/Oficial;1;Não;Sim;Ruim;41-50 anos
+Sem conta;12;Rádio/TV;3077;< 100 DM;1  a 4 anos;2;4;52;Própria;1;Qualificado;1;Não;Sim;Bom;51-60 anos
+Sem conta;24;Carro Novo;3757;< 100 DM;>= 7 anos;4;4;62;Favor;1;Qualificado;1;Não;Sim;Bom;60+ anos
+Sem conta;10;Carro Novo;1418;100 a 500 DM;1  a 4 anos;3;2;35;Aluguel;1;Informal;1;Sim;Não;Bom;31-40 anos
+Sem conta;6;Carro Novo;3518;< 100 DM;1  a 4 anos;2;3;26;Aluguel;1;Qualificado;1;Sim;Sim;Bom;18-30 anos
+Sem conta;12;Rádio/TV;1934;< 100 DM;>= 7 anos;2;2;26;Própria;2;Qualificado;1;Sim;Sim;Bom;18-30 anos
+0 a 200 DM;27;Negócios;8318;< 100 DM;>= 7 anos;2;4;42;Favor;2;Autônomo/Gerência/Oficial;1;Não;Sim;Ruim;41-50 anos
+Sem conta;6;Rádio/TV;1237;100 a 500 DM;1  a 4 anos;1;1;27;Própria;2;Qualificado;1;Sim;Sim;Bom;18-30 anos
+0 a 200 DM;6;Rádio/TV;368;Sem conta;>= 7 anos;4;4;38;Própria;1;Qualificado;1;Sim;Sim;Bom;31-40 anos
+< 0 DM;12;Carro Novo;2122;< 100 DM;1  a 4 anos;3;2;39;Aluguel;2;Informal;2;Sim;Não;Bom;31-40 anos
+< 0 DM;24;Móveis/Equipamento;2996;Sem conta;1  a 4 anos;2;4;20;Própria;1;Qualificado;1;Sim;Sim;Ruim;18-30 anos
+0 a 200 DM;36;Móveis/Equipamento;9034;100 a 500 DM;< 1 ano;4;1;29;Aluguel;1;Autônomo/Gerência/Oficial;1;Não;Sim;Ruim;18-30 anos
+Sem conta;24;Móveis/Equipamento;1585;< 100 DM;4 a 7 anos;4;3;40;Própria;2;Qualificado;1;Sim;Sim;Bom;31-40 anos
+0 a 200 DM;18;Rádio/TV;1301;< 100 DM;>= 7 anos;4;2;32;Própria;1;Informal;1;Sim;Sim;Bom;31-40 anos
+>= 200 DM;6;Carro Novo;1323;100 a 500 DM;>= 7 anos;2;4;28;Própria;2;Qualificado;2;Não;Sim;Bom;18-30 anos
+< 0 DM;24;Carro Novo;3123;< 100 DM;< 1 ano;4;1;27;Própria;1;Qualificado;1;Sim;Sim;Ruim;18-30 anos
+< 0 DM;36;Carro Usado;5493;< 100 DM;>= 7 anos;2;4;42;Favor;1;Qualificado;2;Sim;Sim;Bom;41-50 anos
+>= 200 DM;9;Rádio/TV;1126;100 a 500 DM;>= 7 anos;2;4;49;Própria;1;Qualificado;1;Sim;Sim;Bom;41-50 anos
+0 a 200 DM;24;Rádio/TV;1216;100 a 500 DM;< 1 ano;4;4;38;Própria;2;Qualificado;2;Sim;Sim;Ruim;31-40 anos
+< 0 DM;24;Carro Novo;1207;< 100 DM;< 1 ano;4;4;24;Aluguel;1;Qualificado;1;Sim;Sim;Ruim;18-30 anos
+Sem conta;10;Carro Novo;1309;Sem conta;1  a 4 anos;4;4;27;Própria;1;Informal;1;Sim;Sim;Ruim;18-30 anos
+>= 200 DM;15;Carro Usado;2360;500 a 1000 DM;1  a 4 anos;2;2;36;Própria;1;Qualificado;1;Não;Sim;Bom;31-40 anos
+0 a 200 DM;15;Carro Novo;6850;100 a 500 DM;Desempregado;1;2;34;Própria;1;Autônomo/Gerência/Oficial;2;Não;Sim;Ruim;31-40 anos
+Sem conta;24;Rádio/TV;1413;< 100 DM;1  a 4 anos;4;2;28;Própria;1;Qualificado;1;Sim;Sim;Bom;18-30 anos
+Sem conta;39;Carro Usado;8588;100 a 500 DM;>= 7 anos;4;2;45;Própria;1;Autônomo/Gerência/Oficial;1;Não;Sim;Bom;41-50 anos
+< 0 DM;12;Carro Novo;759;< 100 DM;4 a 7 anos;4;2;26;Própria;1;Qualificado;1;Sim;Sim;Ruim;18-30 anos
+Sem conta;36;Carro Usado;4686;< 100 DM;1  a 4 anos;2;2;32;Favor;1;Autônomo/Gerência/Oficial;1;Não;Sim;Bom;31-40 anos
+>= 200 DM;15;Negócios;2687;< 100 DM;4 a 7 anos;2;4;26;Aluguel;1;Qualificado;1;Não;Sim;Bom;18-30 anos
+0 a 200 DM;12;Rádio/TV;585;< 100 DM;1  a 4 anos;4;4;20;Aluguel;2;Qualificado;1;Sim;Sim;Bom;18-30 anos
+Sem conta;24;Carro Novo;2255;Sem conta;< 1 ano;4;1;54;Própria;1;Qualificado;1;Sim;Sim;Bom;51-60 anos
+< 0 DM;6;Carro Novo;609;< 100 DM;4 a 7 anos;4;3;37;Própria;2;Qualificado;1;Sim;Não;Bom;31-40 anos
+< 0 DM;6;Carro Novo;1361;< 100 DM;< 1 ano;2;4;40;Própria;1;Informal;2;Sim;Não;Bom;31-40 anos
+Sem conta;36;Móveis/Equipamento;7127;< 100 DM;< 1 ano;2;4;23;Aluguel;2;Qualificado;1;Não;Sim;Ruim;18-30 anos
+< 0 DM;6;Carro Novo;1203;100 a 500 DM;>= 7 anos;3;2;43;Própria;1;Qualificado;1;Não;Sim;Bom;41-50 anos
+Sem conta;6;Rádio/TV;700;Sem conta;>= 7 anos;4;4;36;Favor;2;Qualificado;1;Sim;Sim;Bom;31-40 anos
+Sem conta;24;Reparos;5507;< 100 DM;>= 7 anos;3;4;44;Favor;2;Qualificado;1;Sim;Sim;Bom;41-50 anos
+< 0 DM;18;Rádio/TV;3190;< 100 DM;1  a 4 anos;2;2;24;Própria;1;Qualificado;1;Sim;Sim;Ruim;18-30 anos
+< 0 DM;48;Móveis/Equipamento;7119;< 100 DM;1  a 4 anos;3;4;53;Favor;2;Qualificado;2;Sim;Sim;Ruim;51-60 anos
+Sem conta;24;Carro Usado;3488;100 a 500 DM;4 a 7 anos;3;4;23;Própria;1;Qualificado;1;Sim;Sim;Bom;18-30 anos
+0 a 200 DM;18;Rádio/TV;1113;< 100 DM;1  a 4 anos;4;4;26;Própria;1;Informal;2;Sim;Sim;Bom;18-30 anos
+0 a 200 DM;26;Carro Usado;7966;< 100 DM;< 1 ano;2;3;30;Própria;2;Qualificado;1;Sim;Sim;Bom;18-30 anos
+Sem conta;15;Educação;1532;100 a 500 DM;1  a 4 anos;4;3;31;Própria;1;Qualificado;1;Sim;Sim;Bom;31-40 anos
+Sem conta;4;Rádio/TV;1503;< 100 DM;4 a 7 anos;2;1;42;Própria;2;Informal;2;Sim;Sim;Bom;41-50 anos
+< 0 DM;36;Rádio/TV;2302;< 100 DM;1  a 4 anos;4;4;31;Aluguel;1;Qualificado;1;Sim;Sim;Ruim;31-40 anos
+< 0 DM;6;Carro Novo;662;< 100 DM;< 1 ano;3;4;41;Própria;1;Informal;2;Não;Sim;Bom;41-50 anos
+0 a 200 DM;36;Educação;2273;< 100 DM;4 a 7 anos;3;1;32;Própria;2;Qualificado;2;Sim;Sim;Bom;31-40 anos
+0 a 200 DM;15;Carro Novo;2631;100 a 500 DM;1  a 4 anos;2;4;28;Aluguel;2;Qualificado;1;Não;Sim;Ruim;18-30 anos
+Sem conta;12;Carro Usado;1503;< 100 DM;1  a 4 anos;4;4;41;Aluguel;1;Qualificado;1;Sim;Sim;Bom;41-50 anos
+Sem conta;24;Rádio/TV;1311;100 a 500 DM;4 a 7 anos;4;3;26;Própria;1;Qualificado;1;Não;Sim;Bom;18-30 anos
+Sem conta;24;Rádio/TV;3105;Sem conta;< 1 ano;4;2;25;Própria;2;Qualificado;1;Sim;Sim;Bom;18-30 anos
+>= 200 DM;21;Educação;2319;< 100 DM;< 1 ano;2;1;33;Aluguel;1;Qualificado;1;Sim;Sim;Ruim;31-40 anos
+< 0 DM;6;Carro Novo;1374;Sem conta;Desempregado;4;3;75;Própria;1;Autônomo/Gerência/Oficial;1;Não;Sim;Bom;60+ anos
+0 a 200 DM;18;Móveis/Equipamento;3612;< 100 DM;>= 7 anos;3;4;37;Própria;1;Qualificado;1;Não;Sim;Bom;31-40 anos
+< 0 DM;48;Carro Novo;7763;< 100 DM;>= 7 anos;4;4;42;Favor;1;Autônomo/Gerência/Oficial;1;Sim;Sim;Ruim;41-50 anos
+>= 200 DM;18;Móveis/Equipamento;3049;< 100 DM;< 1 ano;1;1;45;Própria;1;Informal;1;Sim;Sim;Bom;41-50 anos
+0 a 200 DM;12;Rádio/TV;1534;< 100 DM;< 1 ano;1;1;23;Aluguel;1;Qualificado;1;Sim;Sim;Ruim;18-30 anos
+Sem conta;24;Carro Novo;2032;< 100 DM;>= 7 anos;4;4;60;Favor;2;Qualificado;1;Não;Sim;Bom;51-60 anos
+< 0 DM;30;Móveis/Equipamento;6350;Sem conta;>= 7 anos;4;4;31;Própria;1;Qualificado;1;Sim;Sim;Ruim;31-40 anos
+>= 200 DM;18;Móveis/Equipamento;2864;< 100 DM;1  a 4 anos;2;1;34;Própria;1;Informal;2;Sim;Sim;Ruim;31-40 anos
+Sem conta;12;Carro Novo;1255;< 100 DM;>= 7 anos;4;4;61;Própria;2;Informal;1;Sim;Sim;Bom;60+ anos
+< 0 DM;24;Carro Novo;1333;< 100 DM;Desempregado;4;2;43;Favor;2;Qualificado;2;Sim;Sim;Ruim;41-50 anos
+Sem conta;24;Carro Novo;2022;< 100 DM;1  a 4 anos;4;4;37;Própria;1;Qualificado;1;Não;Sim;Bom;31-40 anos
+Sem conta;24;Rádio/TV;1552;< 100 DM;4 a 7 anos;3;1;32;Própria;1;Qualificado;2;Sim;Sim;Bom;31-40 anos
+< 0 DM;12;Rádio/TV;626;< 100 DM;1  a 4 anos;4;4;24;Própria;1;Informal;1;Sim;Sim;Ruim;18-30 anos
+Sem conta;48;Carro Usado;8858;Sem conta;4 a 7 anos;2;1;35;Favor;2;Qualificado;1;Não;Sim;Bom;31-40 anos
+Sem conta;12;Reparos;996;Sem conta;4 a 7 anos;4;4;23;Própria;2;Qualificado;1;Sim;Sim;Bom;18-30 anos
+Sem conta;6;Rádio/TV;1750;500 a 1000 DM;>= 7 anos;2;4;45;Própria;1;Informal;2;Sim;Sim;Bom;41-50 anos
+< 0 DM;48;Rádio/TV;6999;< 100 DM;4 a 7 anos;1;1;34;Própria;2;Qualificado;1;Não;Sim;Ruim;31-40 anos
+0 a 200 DM;12;Carro Novo;1995;100 a 500 DM;< 1 ano;4;1;27;Própria;1;Qualificado;1;Sim;Sim;Bom;18-30 anos
+0 a 200 DM;9;Educação;1199;< 100 DM;4 a 7 anos;4;4;67;Própria;2;Autônomo/Gerência/Oficial;1;Não;Sim;Bom;60+ anos
+0 a 200 DM;12;Rádio/TV;1331;< 100 DM;< 1 ano;2;1;22;Própria;1;Qualificado;1;Sim;Sim;Ruim;18-30 anos
+0 a 200 DM;18;Carro Novo;2278;100 a 500 DM;< 1 ano;3;3;28;Própria;2;Qualificado;1;Sim;Sim;Ruim;18-30 anos
+Sem conta;21;Carro Novo;5003;Sem conta;1  a 4 anos;1;4;29;Própria;2;Qualificado;1;Não;Sim;Ruim;18-30 anos
+< 0 DM;24;Móveis/Equipamento;3552;< 100 DM;4 a 7 anos;3;4;27;Própria;1;Qualificado;1;Sim;Sim;Ruim;18-30 anos
+0 a 200 DM;18;Móveis/Equipamento;1928;< 100 DM;< 1 ano;2;2;31;Própria;2;Informal;1;Sim;Sim;Ruim;31-40 anos
+< 0 DM;24;Carro Usado;2964;Sem conta;>= 7 anos;4;4;49;Favor;1;Qualificado;2;Não;Sim;Bom;41-50 anos
+< 0 DM;24;Rádio/TV;1546;< 100 DM;4 a 7 anos;4;4;24;Aluguel;1;Informal;1;Sim;Sim;Ruim;18-30 anos
+>= 200 DM;6;Rádio/TV;683;< 100 DM;< 1 ano;2;1;29;Própria;1;Qualificado;1;Sim;Sim;Bom;18-30 anos
+0 a 200 DM;36;Carro Novo;12389;Sem conta;1  a 4 anos;1;4;37;Favor;1;Qualificado;1;Não;Sim;Ruim;31-40 anos
+0 a 200 DM;24;Negócios;4712;Sem conta;1  a 4 anos;4;2;37;Própria;2;Autônomo/Gerência/Oficial;1;Não;Sim;Bom;31-40 anos
+0 a 200 DM;24;Rádio/TV;1553;100 a 500 DM;4 a 7 anos;3;2;23;Aluguel;2;Qualificado;1;Não;Sim;Bom;18-30 anos
+< 0 DM;12;Carro Novo;1372;< 100 DM;4 a 7 anos;2;3;36;Própria;1;Qualificado;1;Sim;Sim;Ruim;31-40 anos
+Sem conta;24;Rádio/TV;2578;>= 1000 DM;>= 7 anos;2;2;34;Própria;1;Qualificado;1;Sim;Sim;Bom;31-40 anos
+0 a 200 DM;48;Rádio/TV;3979;Sem conta;4 a 7 anos;4;1;41;Própria;2;Qualificado;2;Não;Sim;Bom;41-50 anos
+< 0 DM;48;Rádio/TV;6758;< 100 DM;1  a 4 anos;3;2;31;Própria;1;Qualificado;1;Não;Sim;Ruim;31-40 anos
+< 0 DM;24;Móveis/Equipamento;3234;< 100 DM;< 1 ano;4;4;23;Aluguel;1;Informal;1;Não;Sim;Ruim;18-30 anos
+Sem conta;30;Rádio/TV;5954;< 100 DM;4 a 7 anos;3;2;38;Própria;1;Qualificado;1;Sim;Sim;Bom;31-40 anos
+Sem conta;24;Carro Usado;5433;Sem conta;Desempregado;2;4;26;Aluguel;1;Autônomo/Gerência/Oficial;1;Não;Sim;Bom;18-30 anos
+< 0 DM;15;Negócios;806;< 100 DM;1  a 4 anos;4;4;22;Própria;1;Informal;1;Sim;Sim;Bom;18-30 anos
+0 a 200 DM;9;Rádio/TV;1082;< 100 DM;>= 7 anos;4;4;27;Própria;2;Informal;1;Sim;Sim;Bom;18-30 anos
+Sem conta;15;Móveis/Equipamento;2788;< 100 DM;4 a 7 anos;2;3;24;Própria;2;Qualificado;1;Sim;Sim;Bom;18-30 anos
+0 a 200 DM;12;Rádio/TV;2930;< 100 DM;4 a 7 anos;2;1;27;Própria;1;Qualificado;1;Sim;Sim;Bom;18-30 anos
+Sem conta;24;Educação;1927;Sem conta;1  a 4 anos;3;2;33;Própria;2;Qualificado;1;Não;Sim;Bom;31-40 anos
+0 a 200 DM;36;Carro Novo;2820;< 100 DM;< 1 ano;4;4;27;Própria;2;Qualificado;1;Sim;Sim;Ruim;18-30 anos
+Sem conta;24;Retreinamento;937;< 100 DM;< 1 ano;4;3;27;Própria;2;Informal;1;Sim;Sim;Bom;18-30 anos
+0 a 200 DM;18;Carro Novo;1056;< 100 DM;>= 7 anos;3;3;30;Própria;2;Qualificado;1;Sim;Sim;Ruim;18-30 anos
+0 a 200 DM;12;Carro Novo;3124;< 100 DM;< 1 ano;1;3;49;Própria;2;Informal;2;Sim;Sim;Bom;41-50 anos
+Sem conta;9;Móveis/Equipamento;1388;< 100 DM;1  a 4 anos;4;2;26;Aluguel;1;Qualificado;1;Sim;Sim;Bom;18-30 anos
+0 a 200 DM;36;Reparos;2384;< 100 DM;< 1 ano;4;1;33;Aluguel;1;Informal;1;Sim;Sim;Ruim;31-40 anos
+Sem conta;12;Carro Novo;2133;Sem conta;>= 7 anos;4;4;52;Favor;1;Autônomo/Gerência/Oficial;1;Não;Sim;Bom;51-60 anos
+< 0 DM;18;Móveis/Equipamento;2039;< 100 DM;1  a 4 anos;1;4;20;Aluguel;1;Qualificado;1;Sim;Sim;Ruim;18-30 anos
+< 0 DM;9;Carro Novo;2799;< 100 DM;1  a 4 anos;2;2;36;Aluguel;2;Qualificado;2;Sim;Sim;Bom;31-40 anos
+< 0 DM;12;Móveis/Equipamento;1289;< 100 DM;1  a 4 anos;4;1;21;Própria;1;Informal;1;Sim;Sim;Bom;18-30 anos
+< 0 DM;18;Eletrodomésticos;1217;< 100 DM;1  a 4 anos;4;3;47;Própria;1;Informal;1;Não;Sim;Ruim;41-50 anos
+< 0 DM;12;Móveis/Equipamento;2246;< 100 DM;>= 7 anos;3;3;60;Própria;2;Qualificado;1;Sim;Sim;Ruim;51-60 anos
+< 0 DM;12;Rádio/TV;385;< 100 DM;4 a 7 anos;4;3;58;Própria;4;Informal;1;Não;Sim;Bom;51-60 anos
+0 a 200 DM;24;Carro Novo;1965;Sem conta;1  a 4 anos;4;4;42;Aluguel;2;Qualificado;1;Não;Sim;Bom;41-50 anos
+Sem conta;21;Negócios;1572;>= 1000 DM;>= 7 anos;4;4;36;Própria;1;Informal;1;Sim;Sim;Bom;31-40 anos
+0 a 200 DM;24;Carro Novo;2718;< 100 DM;1  a 4 anos;3;4;20;Aluguel;1;Informal;1;Não;Sim;Ruim;18-30 anos
+< 0 DM;24;Outros;1358;Sem conta;>= 7 anos;4;3;40;Própria;1;Autônomo/Gerência/Oficial;1;Não;Sim;Ruim;31-40 anos
+0 a 200 DM;6;Carro Novo;931;100 a 500 DM;< 1 ano;1;1;32;Própria;1;Informal;1;Sim;Sim;Ruim;31-40 anos
+< 0 DM;24;Carro Novo;1442;< 100 DM;4 a 7 anos;4;4;23;Aluguel;2;Qualificado;1;Sim;Sim;Ruim;18-30 anos
+0 a 200 DM;24;Negócios;4241;< 100 DM;1  a 4 anos;1;4;36;Própria;3;Informal;1;Não;Sim;Ruim;31-40 anos
+Sem conta;18;Carro Novo;2775;< 100 DM;4 a 7 anos;2;2;31;Própria;2;Qualificado;1;Sim;Sim;Ruim;31-40 anos
+Sem conta;24;Negócios;3863;< 100 DM;1  a 4 anos;1;2;32;Favor;1;Qualificado;1;Sim;Sim;Bom;31-40 anos
+0 a 200 DM;7;Rádio/TV;2329;< 100 DM;< 1 ano;1;1;45;Própria;1;Qualificado;1;Sim;Sim;Bom;41-50 anos
+0 a 200 DM;9;Móveis/Equipamento;918;< 100 DM;1  a 4 anos;4;1;30;Própria;1;Qualificado;1;Sim;Sim;Ruim;18-30 anos
+0 a 200 DM;24;Educação;1837;< 100 DM;4 a 7 anos;4;4;34;Favor;1;Informal;1;Sim;Sim;Ruim;31-40 anos
+Sem conta;36;Móveis/Equipamento;3349;< 100 DM;1  a 4 anos;4;2;28;Própria;1;Autônomo/Gerência/Oficial;1;Não;Sim;Ruim;18-30 anos
+>= 200 DM;10;Móveis/Equipamento;1275;< 100 DM;< 1 ano;4;2;23;Própria;1;Qualificado;1;Sim;Sim;Bom;18-30 anos
+< 0 DM;24;Móveis/Equipamento;2828;500 a 1000 DM;1  a 4 anos;4;4;22;Própria;1;Qualificado;1;Não;Sim;Bom;18-30 anos
+Sem conta;24;Negócios;4526;< 100 DM;1  a 4 anos;3;2;74;Própria;1;Autônomo/Gerência/Oficial;1;Não;Sim;Bom;60+ anos
+0 a 200 DM;36;Rádio/TV;2671;100 a 500 DM;1  a 4 anos;4;4;50;Favor;1;Qualificado;1;Sim;Sim;Ruim;41-50 anos
+Sem conta;18;Rádio/TV;2051;< 100 DM;< 1 ano;4;1;33;Própria;1;Qualificado;1;Sim;Sim;Bom;31-40 anos
+Sem conta;15;Carro Usado;1300;Sem conta;>= 7 anos;4;4;45;Favor;1;Qualificado;2;Sim;Sim;Bom;41-50 anos
+< 0 DM;12;Eletrodomésticos;741;100 a 500 DM;Desempregado;4;3;22;Própria;1;Qualificado;1;Sim;Sim;Ruim;18-30 anos
+>= 200 DM;10;Carro Novo;1240;100 a 500 DM;>= 7 anos;1;4;48;Favor;1;Informal;2;Sim;Sim;Ruim;41-50 anos
+< 0 DM;21;Rádio/TV;3357;>= 1000 DM;< 1 ano;4;2;29;Própria;1;Qualificado;1;Sim;Sim;Bom;18-30 anos
+< 0 DM;24;Carro Usado;3632;< 100 DM;1  a 4 anos;1;4;22;Aluguel;1;Qualificado;1;Sim;Não;Bom;18-30 anos
+Sem conta;18;Móveis/Equipamento;1808;< 100 DM;4 a 7 anos;4;1;22;Própria;1;Qualificado;1;Sim;Sim;Ruim;18-30 anos
+0 a 200 DM;48;Negócios;12204;Sem conta;1  a 4 anos;2;2;48;Própria;1;Autônomo/Gerência/Oficial;1;Não;Sim;Bom;41-50 anos
+0 a 200 DM;60;Rádio/TV;9157;Sem conta;1  a 4 anos;2;2;27;Favor;1;Autônomo/Gerência/Oficial;1;Sim;Sim;Bom;18-30 anos
+< 0 DM;6;Carro Novo;3676;< 100 DM;1  a 4 anos;1;3;37;Aluguel;3;Qualificado;2;Sim;Sim;Bom;31-40 anos
+0 a 200 DM;30;Móveis/Equipamento;3441;100 a 500 DM;1  a 4 anos;2;4;21;Aluguel;1;Qualificado;1;Sim;Sim;Ruim;18-30 anos
+Sem conta;12;Carro Novo;640;< 100 DM;1  a 4 anos;4;2;49;Própria;1;Informal;1;Sim;Sim;Bom;41-50 anos
+0 a 200 DM;21;Negócios;3652;< 100 DM;4 a 7 anos;2;3;27;Própria;2;Qualificado;1;Sim;Sim;Bom;18-30 anos
+Sem conta;18;Carro Novo;1530;< 100 DM;1  a 4 anos;3;2;32;Própria;2;Qualificado;1;Sim;Sim;Ruim;31-40 anos
+Sem conta;48;Negócios;3914;Sem conta;1  a 4 anos;4;2;38;Própria;1;Qualificado;1;Sim;Sim;Ruim;31-40 anos
+< 0 DM;12;Móveis/Equipamento;1858;< 100 DM;< 1 ano;4;1;22;Aluguel;1;Qualificado;1;Sim;Sim;Bom;18-30 anos
+< 0 DM;18;Rádio/TV;2600;< 100 DM;1  a 4 anos;4;4;65;Favor;2;Qualificado;1;Sim;Sim;Ruim;60+ anos
+Sem conta;15;Rádio/TV;1979;Sem conta;>= 7 anos;4;2;35;Própria;1;Qualificado;1;Sim;Sim;Bom;31-40 anos
+>= 200 DM;6;Móveis/Equipamento;2116;< 100 DM;1  a 4 anos;2;2;41;Própria;1;Qualificado;1;Não;Sim;Bom;41-50 anos
+0 a 200 DM;9;Carro Novo;1437;100 a 500 DM;4 a 7 anos;2;3;29;Própria;1;Qualificado;1;Sim;Sim;Ruim;18-30 anos
+Sem conta;42;Móveis/Equipamento;4042;500 a 1000 DM;1  a 4 anos;4;4;36;Própria;2;Qualificado;1;Não;Sim;Bom;31-40 anos
+Sem conta;9;Educação;3832;Sem conta;>= 7 anos;1;4;64;Própria;1;Informal;1;Sim;Sim;Bom;60+ anos
+< 0 DM;24;Rádio/TV;3660;< 100 DM;1  a 4 anos;2;4;28;Própria;1;Qualificado;1;Sim;Sim;Bom;18-30 anos
+< 0 DM;18;Móveis/Equipamento;1553;< 100 DM;1  a 4 anos;4;3;44;Própria;1;Qualificado;1;Sim;Sim;Ruim;41-50 anos
+0 a 200 DM;15;Rádio/TV;1444;Sem conta;< 1 ano;4;1;23;Própria;1;Qualificado;1;Sim;Sim;Bom;18-30 anos
+Sem conta;9;Móveis/Equipamento;1980;< 100 DM;< 1 ano;2;2;19;Aluguel;2;Qualificado;1;Sim;Sim;Ruim;18-30 anos
+0 a 200 DM;24;Carro Novo;1355;< 100 DM;< 1 ano;3;4;25;Própria;1;Informal;1;Não;Sim;Ruim;18-30 anos
+Sem conta;12;Educação;1393;< 100 DM;>= 7 anos;4;4;47;Própria;3;Qualificado;2;Não;Sim;Bom;41-50 anos
+Sem conta;24;Rádio/TV;1376;500 a 1000 DM;4 a 7 anos;4;1;28;Própria;1;Qualificado;1;Sim;Sim;Bom;18-30 anos
+Sem conta;60;Rádio/TV;15653;< 100 DM;4 a 7 anos;2;4;21;Própria;2;Qualificado;1;Não;Sim;Bom;18-30 anos
+Sem conta;12;Rádio/TV;1493;< 100 DM;< 1 ano;4;3;34;Própria;1;Qualificado;2;Sim;Sim;Bom;31-40 anos
+< 0 DM;42;Rádio/TV;4370;< 100 DM;4 a 7 anos;3;2;26;Própria;2;Qualificado;2;Não;Sim;Ruim;18-30 anos
+< 0 DM;18;Educação;750;< 100 DM;Desempregado;4;1;27;Própria;1;Desempregado;1;Sim;Sim;Ruim;18-30 anos
+0 a 200 DM;15;Reparos;1308;< 100 DM;>= 7 anos;4;4;38;Própria;2;Informal;1;Sim;Sim;Bom;31-40 anos
+Sem conta;15;Educação;4623;100 a 500 DM;1  a 4 anos;3;2;40;Própria;1;Autônomo/Gerência/Oficial;1;Não;Sim;Ruim;31-40 anos
+Sem conta;24;Rádio/TV;1851;< 100 DM;4 a 7 anos;4;2;33;Própria;2;Qualificado;1;Não;Sim;Bom;31-40 anos
+< 0 DM;18;Rádio/TV;1880;< 100 DM;4 a 7 anos;4;1;32;Própria;2;Autônomo/Gerência/Oficial;1;Não;Sim;Bom;31-40 anos
+Sem conta;36;Negócios;7980;Sem conta;< 1 ano;4;4;27;Aluguel;2;Qualificado;1;Não;Sim;Ruim;18-30 anos
+< 0 DM;30;Móveis/Equipamento;4583;< 100 DM;1  a 4 anos;2;2;32;Própria;2;Qualificado;1;Sim;Sim;Bom;31-40 anos
+Sem conta;12;Carro Novo;1386;500 a 1000 DM;1  a 4 anos;2;2;26;Própria;1;Qualificado;1;Sim;Sim;Ruim;18-30 anos
+>= 200 DM;24;Carro Novo;947;< 100 DM;4 a 7 anos;4;3;38;Favor;1;Qualificado;2;Sim;Sim;Ruim;31-40 anos
+< 0 DM;12;Educação;684;< 100 DM;1  a 4 anos;4;4;40;Aluguel;1;Informal;2;Sim;Sim;Ruim;31-40 anos
+< 0 DM;48;Educação;7476;< 100 DM;4 a 7 anos;4;1;50;Favor;1;Autônomo/Gerência/Oficial;1;Não;Sim;Bom;41-50 anos
+0 a 200 DM;12;Móveis/Equipamento;1922;< 100 DM;1  a 4 anos;4;2;37;Própria;1;Informal;1;Sim;Sim;Ruim;31-40 anos
+< 0 DM;24;Carro Novo;2303;< 100 DM;>= 7 anos;4;1;45;Própria;1;Qualificado;1;Sim;Sim;Ruim;41-50 anos
+0 a 200 DM;36;Carro Novo;8086;100 a 500 DM;>= 7 anos;2;4;42;Própria;4;Autônomo/Gerência/Oficial;1;Não;Sim;Ruim;41-50 anos
+Sem conta;24;Carro Usado;2346;< 100 DM;4 a 7 anos;4;3;35;Própria;2;Qualificado;1;Não;Sim;Bom;31-40 anos
+< 0 DM;14;Carro Novo;3973;< 100 DM;Desempregado;1;4;22;Favor;1;Qualificado;1;Sim;Sim;Bom;18-30 anos
+0 a 200 DM;12;Carro Novo;888;< 100 DM;>= 7 anos;4;4;41;Própria;1;Informal;2;Sim;Sim;Ruim;41-50 anos
+Sem conta;48;Rádio/TV;10222;Sem conta;4 a 7 anos;4;3;37;Própria;1;Qualificado;1;Não;Sim;Bom;31-40 anos
+0 a 200 DM;30;Negócios;4221;< 100 DM;1  a 4 anos;2;1;28;Própria;2;Qualificado;1;Sim;Sim;Bom;18-30 anos
+0 a 200 DM;18;Móveis/Equipamento;6361;< 100 DM;>= 7 anos;2;1;41;Própria;1;Qualificado;1;Não;Sim;Bom;41-50 anos
+>= 200 DM;12;Rádio/TV;1297;< 100 DM;1  a 4 anos;3;4;23;Aluguel;1;Qualificado;1;Sim;Sim;Bom;18-30 anos
+< 0 DM;12;Carro Novo;900;Sem conta;1  a 4 anos;4;2;23;Própria;1;Qualificado;1;Sim;Sim;Ruim;18-30 anos
+Sem conta;21;Móveis/Equipamento;2241;< 100 DM;>= 7 anos;4;2;50;Própria;2;Qualificado;1;Sim;Sim;Bom;41-50 anos
+0 a 200 DM;6;Móveis/Equipamento;1050;< 100 DM;Desempregado;4;1;35;Própria;2;Autônomo/Gerência/Oficial;1;Não;Sim;Bom;31-40 anos
+>= 200 DM;6;Educação;1047;< 100 DM;1  a 4 anos;2;4;50;Própria;1;Informal;1;Sim;Sim;Bom;41-50 anos
+Sem conta;24;Outros;6314;< 100 DM;Desempregado;4;2;27;Própria;2;Autônomo/Gerência/Oficial;1;Não;Sim;Bom;18-30 anos
+0 a 200 DM;30;Móveis/Equipamento;3496;>= 1000 DM;1  a 4 anos;4;2;34;Própria;1;Qualificado;2;Não;Sim;Bom;31-40 anos
+Sem conta;48;Negócios;3609;< 100 DM;1  a 4 anos;1;1;27;Própria;1;Qualificado;1;Sim;Sim;Bom;18-30 anos
+< 0 DM;12;Carro Novo;4843;< 100 DM;>= 7 anos;3;4;43;Aluguel;2;Qualificado;1;Não;Sim;Ruim;41-50 anos
+>= 200 DM;30;Rádio/TV;3017;< 100 DM;>= 7 anos;4;4;47;Própria;1;Qualificado;1;Sim;Sim;Bom;41-50 anos
+Sem conta;24;Negócios;4139;100 a 500 DM;1  a 4 anos;3;3;27;Própria;2;Informal;1;Não;Sim;Bom;18-30 anos
+Sem conta;36;Negócios;5742;100 a 500 DM;4 a 7 anos;2;2;31;Própria;2;Qualificado;1;Não;Sim;Bom;31-40 anos
+Sem conta;60;Carro Novo;10366;< 100 DM;>= 7 anos;2;4;42;Própria;1;Autônomo/Gerência/Oficial;1;Não;Sim;Bom;41-50 anos
+Sem conta;6;Carro Novo;2080;500 a 1000 DM;1  a 4 anos;1;2;24;Própria;1;Qualificado;1;Sim;Sim;Bom;18-30 anos
+Sem conta;21;Negócios;2580;500 a 1000 DM;< 1 ano;4;2;41;Própria;1;Informal;2;Sim;Sim;Ruim;41-50 anos
+Sem conta;30;Rádio/TV;4530;< 100 DM;4 a 7 anos;4;4;26;Aluguel;1;Autônomo/Gerência/Oficial;1;Não;Sim;Bom;18-30 anos
+Sem conta;24;Móveis/Equipamento;5150;< 100 DM;>= 7 anos;4;4;33;Própria;1;Qualificado;1;Não;Sim;Bom;31-40 anos
+0 a 200 DM;72;Rádio/TV;5595;100 a 500 DM;1  a 4 anos;2;2;24;Própria;1;Qualificado;1;Sim;Sim;Ruim;18-30 anos
+< 0 DM;24;Rádio/TV;2384;< 100 DM;>= 7 anos;4;4;64;Aluguel;1;Informal;1;Sim;Sim;Bom;60+ anos
+Sem conta;18;Rádio/TV;1453;< 100 DM;< 1 ano;3;1;26;Própria;1;Qualificado;1;Sim;Sim;Bom;18-30 anos
+Sem conta;6;Educação;1538;< 100 DM;< 1 ano;1;2;56;Própria;1;Qualificado;1;Sim;Sim;Bom;51-60 anos
+Sem conta;12;Rádio/TV;2279;Sem conta;1  a 4 anos;4;4;37;Favor;1;Qualificado;1;Não;Sim;Bom;31-40 anos
+Sem conta;15;Rádio/TV;1478;< 100 DM;1  a 4 anos;4;3;33;Própria;2;Qualificado;1;Sim;Sim;Bom;31-40 anos
+Sem conta;24;Rádio/TV;5103;< 100 DM;< 1 ano;3;3;47;Favor;3;Qualificado;1;Não;Sim;Bom;41-50 anos
+0 a 200 DM;36;Negócios;9857;100 a 500 DM;4 a 7 anos;1;3;31;Própria;2;Informal;2;Não;Sim;Bom;31-40 anos
+Sem conta;60;Carro Novo;6527;Sem conta;1  a 4 anos;4;4;34;Favor;1;Qualificado;2;Não;Sim;Bom;31-40 anos
+>= 200 DM;10;Rádio/TV;1347;Sem conta;4 a 7 anos;4;2;27;Própria;2;Qualificado;1;Não;Sim;Bom;18-30 anos
+0 a 200 DM;36;Carro Novo;2862;100 a 500 DM;>= 7 anos;4;3;30;Favor;1;Qualificado;1;Sim;Sim;Bom;18-30 anos
+Sem conta;9;Rádio/TV;2753;100 a 500 DM;>= 7 anos;3;4;35;Própria;1;Qualificado;1;Não;Sim;Bom;31-40 anos
+< 0 DM;12;Carro Novo;3651;>= 1000 DM;1  a 4 anos;1;3;31;Própria;1;Qualificado;2;Sim;Sim;Bom;31-40 anos
+< 0 DM;15;Móveis/Equipamento;975;< 100 DM;1  a 4 anos;2;3;25;Própria;2;Qualificado;1;Sim;Sim;Bom;18-30 anos
+0 a 200 DM;15;Reparos;2631;100 a 500 DM;1  a 4 anos;3;2;25;Própria;1;Informal;1;Sim;Sim;Bom;18-30 anos
+0 a 200 DM;24;Rádio/TV;2896;100 a 500 DM;< 1 ano;2;1;29;Própria;1;Qualificado;1;Sim;Sim;Bom;18-30 anos
+< 0 DM;6;Carro Novo;4716;Sem conta;< 1 ano;1;3;44;Própria;2;Informal;2;Sim;Sim;Bom;41-50 anos
+Sem conta;24;Rádio/TV;2284;< 100 DM;4 a 7 anos;4;2;28;Própria;1;Qualificado;1;Não;Sim;Bom;18-30 anos
+Sem conta;6;Carro Usado;1236;500 a 1000 DM;1  a 4 anos;2;4;50;Aluguel;1;Qualificado;1;Sim;Sim;Bom;41-50 anos
+0 a 200 DM;12;Rádio/TV;1103;< 100 DM;4 a 7 anos;4;3;29;Própria;2;Qualificado;1;Sim;Não;Bom;18-30 anos
+Sem conta;12;Carro Novo;926;< 100 DM;Desempregado;1;2;38;Própria;1;Desempregado;1;Sim;Sim;Bom;31-40 anos
+Sem conta;18;Rádio/TV;1800;< 100 DM;1  a 4 anos;4;2;24;Própria;2;Qualificado;1;Sim;Sim;Bom;18-30 anos
+>= 200 DM;15;Educação;1905;< 100 DM;>= 7 anos;4;4;40;Aluguel;1;Autônomo/Gerência/Oficial;1;Não;Sim;Bom;31-40 anos
+Sem conta;12;Móveis/Equipamento;1123;500 a 1000 DM;1  a 4 anos;4;4;29;Aluguel;1;Informal;1;Sim;Sim;Ruim;18-30 anos
+< 0 DM;48;Carro Usado;6331;< 100 DM;>= 7 anos;4;4;46;Favor;2;Qualificado;1;Não;Sim;Ruim;41-50 anos
+>= 200 DM;24;Rádio/TV;1377;100 a 500 DM;>= 7 anos;4;2;47;Favor;1;Qualificado;1;Não;Sim;Bom;41-50 anos
+0 a 200 DM;30;Negócios;2503;100 a 500 DM;>= 7 anos;4;2;41;Própria;2;Qualificado;1;Sim;Sim;Bom;41-50 anos
+0 a 200 DM;27;Negócios;2528;< 100 DM;< 1 ano;4;1;32;Própria;1;Qualificado;2;Não;Sim;Bom;31-40 anos
+Sem conta;15;Carro Novo;5324;500 a 1000 DM;>= 7 anos;1;4;35;Favor;1;Qualificado;1;Sim;Sim;Bom;31-40 anos
+0 a 200 DM;48;Carro Novo;6560;100 a 500 DM;4 a 7 anos;3;2;24;Própria;1;Qualificado;1;Sim;Sim;Ruim;18-30 anos
+0 a 200 DM;12;Móveis/Equipamento;2969;< 100 DM;< 1 ano;4;3;25;Aluguel;2;Qualificado;1;Sim;Sim;Ruim;18-30 anos
+0 a 200 DM;9;Rádio/TV;1206;< 100 DM;>= 7 anos;4;4;25;Própria;1;Qualificado;1;Sim;Sim;Bom;18-30 anos
+0 a 200 DM;9;Rádio/TV;2118;< 100 DM;1  a 4 anos;2;2;37;Própria;1;Informal;2;Sim;Sim;Bom;31-40 anos
+Sem conta;18;Rádio/TV;629;500 a 1000 DM;>= 7 anos;4;3;32;Própria;2;Autônomo/Gerência/Oficial;1;Não;Sim;Bom;31-40 anos
+< 0 DM;6;Educação;1198;< 100 DM;>= 7 anos;4;4;35;Favor;1;Qualificado;1;Sim;Sim;Ruim;31-40 anos
+Sem conta;21;Carro Usado;2476;Sem conta;>= 7 anos;4;4;46;Própria;1;Autônomo/Gerência/Oficial;1;Não;Sim;Bom;41-50 anos
+< 0 DM;9;Rádio/TV;1138;< 100 DM;1  a 4 anos;4;4;25;Própria;2;Informal;1;Sim;Sim;Bom;18-30 anos
+0 a 200 DM;60;Carro Novo;14027;< 100 DM;4 a 7 anos;4;2;27;Própria;1;Autônomo/Gerência/Oficial;1;Não;Sim;Ruim;18-30 anos
+Sem conta;30;Carro Usado;7596;Sem conta;>= 7 anos;1;4;63;Própria;2;Qualificado;1;Sim;Sim;Bom;60+ anos
+Sem conta;30;Rádio/TV;3077;Sem conta;>= 7 anos;3;2;40;Própria;2;Qualificado;2;Não;Sim;Bom;31-40 anos
+Sem conta;18;Rádio/TV;1505;< 100 DM;1  a 4 anos;4;2;32;Favor;1;Autônomo/Gerência/Oficial;1;Não;Sim;Bom;31-40 anos
+>= 200 DM;24;Rádio/TV;3148;Sem conta;1  a 4 anos;3;2;31;Própria;2;Qualificado;1;Não;Sim;Bom;31-40 anos
+0 a 200 DM;20;Carro Usado;6148;100 a 500 DM;>= 7 anos;3;4;31;Própria;2;Qualificado;1;Não;Sim;Bom;31-40 anos
+>= 200 DM;9;Rádio/TV;1337;< 100 DM;< 1 ano;4;2;34;Própria;2;Autônomo/Gerência/Oficial;1;Não;Sim;Ruim;31-40 anos
+0 a 200 DM;6;Educação;433;>= 1000 DM;< 1 ano;4;2;24;Aluguel;1;Qualificado;2;Sim;Sim;Ruim;18-30 anos
+< 0 DM;12;Carro Novo;1228;< 100 DM;1  a 4 anos;4;2;24;Própria;1;Informal;1;Sim;Sim;Ruim;18-30 anos
+0 a 200 DM;9;Rádio/TV;790;500 a 1000 DM;1  a 4 anos;4;3;66;Própria;1;Informal;1;Sim;Sim;Bom;60+ anos
+Sem conta;27;Carro Novo;2570;< 100 DM;1  a 4 anos;3;3;21;Aluguel;1;Qualificado;1;Sim;Sim;Ruim;18-30 anos
+Sem conta;6;Carro Novo;250;>= 1000 DM;1  a 4 anos;2;2;41;Própria;2;Informal;1;Sim;Sim;Bom;41-50 anos
+Sem conta;15;Rádio/TV;1316;500 a 1000 DM;1  a 4 anos;2;2;47;Própria;2;Informal;1;Sim;Sim;Bom;41-50 anos
+< 0 DM;18;Rádio/TV;1882;< 100 DM;1  a 4 anos;4;4;25;Aluguel;2;Qualificado;1;Sim;Sim;Ruim;18-30 anos
+0 a 200 DM;48;Negócios;6416;< 100 DM;>= 7 anos;4;3;59;Aluguel;1;Qualificado;1;Sim;Sim;Ruim;51-60 anos
+>= 200 DM;24;Negócios;1275;>= 1000 DM;1  a 4 anos;2;4;36;Própria;2;Qualificado;1;Não;Sim;Bom;31-40 anos
+0 a 200 DM;24;Rádio/TV;6403;< 100 DM;< 1 ano;1;2;33;Própria;1;Qualificado;1;Sim;Sim;Bom;31-40 anos
+< 0 DM;24;Rádio/TV;1987;< 100 DM;1  a 4 anos;2;4;21;Aluguel;1;Informal;2;Sim;Sim;Ruim;18-30 anos
+0 a 200 DM;8;Rádio/TV;760;< 100 DM;4 a 7 anos;4;2;44;Própria;1;Informal;1;Sim;Sim;Bom;41-50 anos
+Sem conta;24;Carro Usado;2603;>= 1000 DM;1  a 4 anos;2;4;28;Aluguel;1;Qualificado;1;Não;Sim;Bom;18-30 anos
+Sem conta;4;Carro Novo;3380;< 100 DM;4 a 7 anos;1;1;37;Própria;1;Qualificado;2;Sim;Sim;Bom;31-40 anos
+0 a 200 DM;36;Eletrodomésticos;3990;Sem conta;< 1 ano;3;2;29;Própria;1;Desempregado;1;Sim;Sim;Bom;18-30 anos
+0 a 200 DM;24;Carro Usado;11560;< 100 DM;1  a 4 anos;1;4;23;Aluguel;2;Autônomo/Gerência/Oficial;1;Sim;Sim;Ruim;18-30 anos
+< 0 DM;18;Carro Novo;4380;100 a 500 DM;1  a 4 anos;3;4;35;Própria;1;Informal;2;Não;Sim;Bom;31-40 anos
+Sem conta;6;Carro Novo;6761;< 100 DM;4 a 7 anos;1;3;45;Própria;2;Autônomo/Gerência/Oficial;2;Não;Sim;Bom;41-50 anos
+0 a 200 DM;30;Negócios;4280;100 a 500 DM;1  a 4 anos;4;4;26;Aluguel;2;Informal;1;Sim;Sim;Ruim;18-30 anos
+< 0 DM;24;Carro Novo;2325;100 a 500 DM;4 a 7 anos;2;3;32;Própria;1;Qualificado;1;Sim;Sim;Bom;31-40 anos
+0 a 200 DM;10;Rádio/TV;1048;< 100 DM;1  a 4 anos;4;4;23;Própria;1;Informal;1;Sim;Sim;Bom;18-30 anos
+Sem conta;21;Rádio/TV;3160;Sem conta;>= 7 anos;4;3;41;Própria;1;Qualificado;1;Não;Sim;Bom;41-50 anos
+< 0 DM;24;Móveis/Equipamento;2483;500 a 1000 DM;1  a 4 anos;4;4;22;Própria;1;Qualificado;1;Não;Sim;Bom;18-30 anos
+< 0 DM;39;Móveis/Equipamento;14179;Sem conta;4 a 7 anos;4;4;30;Própria;2;Autônomo/Gerência/Oficial;1;Não;Sim;Bom;18-30 anos
+< 0 DM;13;Negócios;1797;< 100 DM;< 1 ano;3;1;28;Própria;2;Informal;1;Sim;Sim;Bom;18-30 anos
+< 0 DM;15;Carro Novo;2511;< 100 DM;Desempregado;1;4;23;Aluguel;1;Qualificado;1;Sim;Sim;Bom;18-30 anos
+< 0 DM;12;Carro Novo;1274;< 100 DM;< 1 ano;3;1;37;Própria;1;Informal;1;Sim;Sim;Ruim;31-40 anos
+Sem conta;21;Carro Usado;5248;Sem conta;1  a 4 anos;1;3;26;Própria;1;Qualificado;1;Sim;Sim;Bom;18-30 anos
+Sem conta;15;Carro Usado;3029;< 100 DM;4 a 7 anos;2;2;33;Própria;1;Qualificado;1;Sim;Sim;Bom;31-40 anos
+< 0 DM;6;Móveis/Equipamento;428;< 100 DM;>= 7 anos;2;1;49;Própria;1;Qualificado;1;Não;Sim;Bom;41-50 anos
+< 0 DM;18;Carro Novo;976;< 100 DM;< 1 ano;1;2;23;Própria;1;Informal;1;Sim;Sim;Ruim;18-30 anos
+0 a 200 DM;12;Negócios;841;100 a 500 DM;4 a 7 anos;2;4;23;Aluguel;1;Informal;1;Sim;Sim;Bom;18-30 anos
+Sem conta;30;Rádio/TV;5771;< 100 DM;4 a 7 anos;4;2;25;Própria;2;Qualificado;1;Sim;Sim;Bom;18-30 anos
+Sem conta;12;Reparos;1555;>= 1000 DM;>= 7 anos;4;4;55;Favor;2;Qualificado;2;Sim;Sim;Ruim;51-60 anos
+< 0 DM;24;Carro Novo;1285;Sem conta;4 a 7 anos;4;4;32;Aluguel;1;Qualificado;1;Sim;Sim;Ruim;31-40 anos
+>= 200 DM;6;Carro Novo;1299;< 100 DM;1  a 4 anos;1;1;74;Própria;3;Desempregado;2;Sim;Não;Bom;60+ anos
+>= 200 DM;15;Rádio/TV;1271;Sem conta;1  a 4 anos;3;4;39;Favor;2;Qualificado;1;Não;Sim;Ruim;31-40 anos
+Sem conta;24;Carro Novo;1393;< 100 DM;1  a 4 anos;2;2;31;Própria;1;Qualificado;1;Não;Sim;Bom;31-40 anos
+< 0 DM;12;Carro Novo;691;< 100 DM;>= 7 anos;4;3;35;Própria;2;Qualificado;1;Sim;Sim;Ruim;31-40 anos
+Sem conta;15;Carro Novo;5045;Sem conta;>= 7 anos;1;4;59;Própria;1;Qualificado;1;Não;Sim;Bom;51-60 anos
+< 0 DM;18;Móveis/Equipamento;2124;< 100 DM;1  a 4 anos;4;4;24;Aluguel;2;Qualificado;1;Sim;Sim;Ruim;18-30 anos
+< 0 DM;12;Rádio/TV;2214;< 100 DM;1  a 4 anos;4;3;24;Própria;1;Informal;1;Sim;Sim;Bom;18-30 anos
+Sem conta;21;Carro Novo;12680;Sem conta;>= 7 anos;4;4;30;Favor;1;Autônomo/Gerência/Oficial;1;Não;Sim;Ruim;18-30 anos
+Sem conta;24;Carro Novo;2463;100 a 500 DM;4 a 7 anos;4;3;27;Própria;2;Qualificado;1;Não;Sim;Bom;18-30 anos
+0 a 200 DM;12;Rádio/TV;1155;< 100 DM;>= 7 anos;3;3;40;Própria;2;Informal;1;Sim;Sim;Bom;31-40 anos
+< 0 DM;30;Móveis/Equipamento;3108;< 100 DM;< 1 ano;2;4;31;Própria;1;Informal;1;Sim;Sim;Ruim;31-40 anos
+Sem conta;10;Carro Usado;2901;Sem conta;< 1 ano;1;4;31;Aluguel;1;Qualificado;1;Sim;Sim;Bom;31-40 anos
+0 a 200 DM;12;Móveis/Equipamento;3617;< 100 DM;>= 7 anos;1;4;28;Aluguel;3;Qualificado;1;Não;Sim;Bom;18-30 anos
+Sem conta;12;Rádio/TV;1655;< 100 DM;>= 7 anos;2;4;63;Própria;2;Informal;1;Não;Sim;Bom;60+ anos
+< 0 DM;24;Carro Usado;2812;Sem conta;>= 7 anos;2;4;26;Aluguel;1;Qualificado;1;Sim;Sim;Bom;18-30 anos
+< 0 DM;36;Educação;8065;< 100 DM;1  a 4 anos;3;2;25;Própria;2;Autônomo/Gerência/Oficial;1;Não;Sim;Ruim;18-30 anos
+Sem conta;21;Carro Usado;3275;< 100 DM;>= 7 anos;1;4;36;Própria;1;Autônomo/Gerência/Oficial;1;Não;Sim;Bom;31-40 anos
+Sem conta;24;Rádio/TV;2223;100 a 500 DM;>= 7 anos;4;4;52;Própria;2;Qualificado;1;Sim;Sim;Bom;51-60 anos
+>= 200 DM;12;Carro Novo;1480;500 a 1000 DM;Desempregado;2;4;66;Favor;3;Desempregado;1;Sim;Sim;Bom;60+ anos
+< 0 DM;24;Carro Novo;1371;Sem conta;1  a 4 anos;4;4;25;Aluguel;1;Qualificado;1;Sim;Sim;Ruim;18-30 anos
+Sem conta;36;Carro Novo;3535;< 100 DM;4 a 7 anos;4;4;37;Própria;2;Qualificado;1;Não;Sim;Bom;31-40 anos
+< 0 DM;18;Rádio/TV;3509;< 100 DM;4 a 7 anos;4;1;25;Própria;1;Qualificado;1;Sim;Sim;Bom;18-30 anos
+Sem conta;36;Carro Usado;5711;>= 1000 DM;>= 7 anos;4;2;38;Própria;2;Autônomo/Gerência/Oficial;1;Não;Sim;Bom;31-40 anos
+0 a 200 DM;18;Reparos;3872;< 100 DM;Desempregado;2;4;67;Própria;1;Qualificado;1;Não;Sim;Bom;60+ anos
+0 a 200 DM;39;Rádio/TV;4933;< 100 DM;4 a 7 anos;2;2;25;Própria;2;Qualificado;1;Sim;Sim;Ruim;18-30 anos
+Sem conta;24;Carro Novo;1940;>= 1000 DM;>= 7 anos;4;4;60;Própria;1;Qualificado;1;Não;Sim;Bom;51-60 anos
+0 a 200 DM;12;Retreinamento;1410;< 100 DM;1  a 4 anos;2;2;31;Própria;1;Informal;1;Não;Sim;Bom;31-40 anos
+0 a 200 DM;12;Carro Novo;836;100 a 500 DM;< 1 ano;4;2;23;Própria;1;Informal;1;Sim;Sim;Ruim;18-30 anos
+0 a 200 DM;20;Carro Usado;6468;Sem conta;Desempregado;1;4;60;Própria;1;Autônomo/Gerência/Oficial;1;Não;Sim;Bom;51-60 anos
+0 a 200 DM;18;Negócios;1941;>= 1000 DM;1  a 4 anos;4;2;35;Própria;1;Informal;1;Não;Sim;Bom;31-40 anos
+Sem conta;22;Rádio/TV;2675;500 a 1000 DM;>= 7 anos;3;4;40;Própria;1;Qualificado;1;Sim;Sim;Bom;31-40 anos
+Sem conta;48;Carro Usado;2751;Sem conta;>= 7 anos;4;3;38;Própria;2;Qualificado;2;Não;Sim;Bom;31-40 anos
+0 a 200 DM;48;Educação;6224;< 100 DM;>= 7 anos;4;4;50;Favor;1;Qualificado;1;Sim;Sim;Ruim;41-50 anos
+< 0 DM;40;Educação;5998;< 100 DM;1  a 4 anos;4;3;27;Própria;1;Qualificado;1;Não;Sim;Ruim;18-30 anos
+0 a 200 DM;21;Negócios;1188;< 100 DM;>= 7 anos;2;4;39;Própria;1;Qualificado;2;Sim;Sim;Ruim;31-40 anos
+Sem conta;24;Carro Usado;6313;Sem conta;>= 7 anos;3;4;41;Própria;1;Autônomo/Gerência/Oficial;2;Não;Sim;Bom;41-50 anos
+Sem conta;6;Móveis/Equipamento;1221;Sem conta;1  a 4 anos;1;2;27;Própria;2;Qualificado;1;Sim;Sim;Bom;18-30 anos
+>= 200 DM;24;Móveis/Equipamento;2892;< 100 DM;>= 7 anos;3;4;51;Favor;1;Qualificado;1;Sim;Sim;Bom;51-60 anos
+Sem conta;24;Móveis/Equipamento;3062;500 a 1000 DM;>= 7 anos;4;3;32;Aluguel;1;Qualificado;1;Não;Sim;Bom;31-40 anos
+Sem conta;9;Móveis/Equipamento;2301;100 a 500 DM;< 1 ano;2;4;22;Aluguel;1;Qualificado;1;Sim;Sim;Bom;18-30 anos
+< 0 DM;18;Carro Usado;7511;Sem conta;>= 7 anos;1;4;51;Favor;1;Qualificado;2;Não;Sim;Ruim;51-60 anos
+Sem conta;12;Móveis/Equipamento;1258;< 100 DM;< 1 ano;2;4;22;Aluguel;2;Informal;1;Sim;Sim;Bom;18-30 anos
+Sem conta;24;Carro Novo;717;Sem conta;>= 7 anos;4;4;54;Própria;2;Qualificado;1;Não;Sim;Bom;51-60 anos
+0 a 200 DM;9;Carro Novo;1549;Sem conta;< 1 ano;4;2;35;Própria;1;Desempregado;1;Sim;Sim;Bom;31-40 anos
+Sem conta;24;Educação;1597;< 100 DM;>= 7 anos;4;4;54;Favor;2;Qualificado;2;Sim;Sim;Bom;51-60 anos
+0 a 200 DM;18;Rádio/TV;1795;< 100 DM;>= 7 anos;3;4;48;Aluguel;2;Informal;1;Não;Sim;Bom;41-50 anos
+< 0 DM;20;Móveis/Equipamento;4272;< 100 DM;>= 7 anos;1;4;24;Própria;2;Qualificado;1;Sim;Sim;Bom;18-30 anos
+Sem conta;12;Rádio/TV;976;Sem conta;>= 7 anos;4;4;35;Própria;2;Qualificado;1;Sim;Sim;Bom;31-40 anos
+0 a 200 DM;12;Carro Novo;7472;Sem conta;Desempregado;1;2;24;Aluguel;1;Desempregado;1;Sim;Sim;Bom;18-30 anos
+< 0 DM;36;Carro Novo;9271;< 100 DM;4 a 7 anos;2;1;24;Própria;1;Qualificado;1;Não;Sim;Ruim;18-30 anos
+0 a 200 DM;6;Rádio/TV;590;< 100 DM;< 1 ano;3;3;26;Própria;1;Informal;1;Sim;Não;Bom;18-30 anos
+Sem conta;12;Rádio/TV;930;Sem conta;>= 7 anos;4;4;65;Própria;4;Qualificado;1;Sim;Sim;Bom;60+ anos
+0 a 200 DM;42;Carro Usado;9283;< 100 DM;Desempregado;1;2;55;Favor;1;Autônomo/Gerência/Oficial;1;Não;Sim;Bom;51-60 anos
+0 a 200 DM;15;Carro Novo;1778;< 100 DM;< 1 ano;2;1;26;Aluguel;2;Desempregado;1;Sim;Sim;Ruim;18-30 anos
+0 a 200 DM;8;Negócios;907;< 100 DM;< 1 ano;3;2;26;Própria;1;Qualificado;1;Não;Sim;Bom;18-30 anos
+0 a 200 DM;6;Rádio/TV;484;< 100 DM;4 a 7 anos;3;3;28;Própria;1;Informal;1;Sim;Sim;Bom;18-30 anos
+< 0 DM;36;Carro Usado;9629;< 100 DM;4 a 7 anos;4;4;24;Própria;2;Qualificado;1;Não;Sim;Ruim;18-30 anos
+< 0 DM;48;Eletrodomésticos;3051;< 100 DM;1  a 4 anos;3;4;54;Própria;1;Qualificado;1;Sim;Sim;Ruim;51-60 anos
+< 0 DM;48;Carro Novo;3931;< 100 DM;4 a 7 anos;4;4;46;Favor;1;Qualificado;2;Sim;Sim;Ruim;41-50 anos
+0 a 200 DM;36;Carro Novo;7432;< 100 DM;1  a 4 anos;2;2;54;Aluguel;1;Qualificado;1;Sim;Sim;Bom;51-60 anos
+Sem conta;6;Eletrodomésticos;1338;500 a 1000 DM;1  a 4 anos;1;4;62;Própria;1;Qualificado;1;Sim;Sim;Bom;60+ anos
+Sem conta;6;Rádio/TV;1554;< 100 DM;4 a 7 anos;1;2;24;Aluguel;2;Qualificado;1;Não;Sim;Bom;18-30 anos
+< 0 DM;36;Outros;15857;< 100 DM;Desempregado;2;3;43;Própria;1;Autônomo/Gerência/Oficial;1;Sim;Sim;Bom;41-50 anos
+< 0 DM;18;Rádio/TV;1345;< 100 DM;1  a 4 anos;4;3;26;Própria;1;Qualificado;1;Sim;Sim;Ruim;18-30 anos
+Sem conta;12;Carro Novo;1101;< 100 DM;1  a 4 anos;3;2;27;Própria;2;Qualificado;1;Não;Sim;Bom;18-30 anos
+>= 200 DM;12;Rádio/TV;3016;< 100 DM;1  a 4 anos;3;1;24;Própria;1;Qualificado;1;Sim;Sim;Bom;18-30 anos
+< 0 DM;36;Móveis/Equipamento;2712;< 100 DM;>= 7 anos;2;2;41;Própria;1;Qualificado;2;Sim;Sim;Ruim;41-50 anos
+< 0 DM;8;Carro Novo;731;< 100 DM;>= 7 anos;4;4;47;Própria;2;Informal;1;Sim;Sim;Bom;41-50 anos
+Sem conta;18;Móveis/Equipamento;3780;< 100 DM;< 1 ano;3;2;35;Própria;2;Autônomo/Gerência/Oficial;1;Não;Sim;Bom;31-40 anos
+< 0 DM;21;Carro Novo;1602;< 100 DM;>= 7 anos;4;3;30;Própria;2;Qualificado;1;Não;Sim;Bom;18-30 anos
+< 0 DM;18;Carro Novo;3966;< 100 DM;>= 7 anos;1;4;33;Aluguel;3;Qualificado;1;Não;Sim;Ruim;31-40 anos
+Sem conta;18;Negócios;4165;< 100 DM;1  a 4 anos;2;2;36;Própria;2;Qualificado;2;Sim;Sim;Ruim;31-40 anos
+< 0 DM;36;Carro Usado;8335;Sem conta;>= 7 anos;3;4;47;Favor;1;Qualificado;1;Sim;Sim;Ruim;41-50 anos
+0 a 200 DM;48;Negócios;6681;Sem conta;1  a 4 anos;4;4;38;Favor;1;Qualificado;2;Não;Sim;Bom;31-40 anos
+Sem conta;24;Negócios;2375;500 a 1000 DM;1  a 4 anos;4;2;44;Própria;2;Qualificado;2;Não;Sim;Bom;41-50 anos
+< 0 DM;18;Carro Novo;1216;< 100 DM;< 1 ano;4;3;23;Aluguel;1;Qualificado;1;Não;Sim;Ruim;18-30 anos
+< 0 DM;45;Negócios;11816;< 100 DM;>= 7 anos;2;4;29;Aluguel;2;Qualificado;1;Sim;Sim;Ruim;18-30 anos
+0 a 200 DM;24;Rádio/TV;5084;Sem conta;>= 7 anos;2;4;42;Própria;1;Qualificado;1;Não;Sim;Bom;41-50 anos
+>= 200 DM;15;Rádio/TV;2327;< 100 DM;< 1 ano;2;3;25;Própria;1;Informal;1;Sim;Sim;Ruim;18-30 anos
+< 0 DM;12;Carro Novo;1082;< 100 DM;1  a 4 anos;4;4;48;Própria;2;Qualificado;1;Sim;Sim;Ruim;41-50 anos
+Sem conta;12;Rádio/TV;886;Sem conta;1  a 4 anos;4;2;21;Própria;1;Qualificado;1;Sim;Sim;Bom;18-30 anos
+Sem conta;4;Móveis/Equipamento;601;< 100 DM;< 1 ano;1;3;23;Aluguel;1;Informal;2;Sim;Sim;Bom;18-30 anos
+< 0 DM;24;Carro Usado;2957;< 100 DM;>= 7 anos;4;4;63;Própria;2;Qualificado;1;Não;Sim;Bom;60+ anos
+Sem conta;24;Rádio/TV;2611;< 100 DM;>= 7 anos;4;3;46;Própria;2;Qualificado;1;Sim;Sim;Bom;41-50 anos
+< 0 DM;36;Móveis/Equipamento;5179;< 100 DM;4 a 7 anos;4;2;29;Própria;1;Qualificado;1;Sim;Sim;Ruim;18-30 anos
+Sem conta;21;Carro Usado;2993;< 100 DM;1  a 4 anos;3;2;28;Própria;2;Informal;1;Sim;Sim;Bom;18-30 anos
+Sem conta;18;Reparos;1943;< 100 DM;< 1 ano;4;4;23;Própria;1;Qualificado;1;Sim;Sim;Ruim;18-30 anos
+Sem conta;24;Negócios;1559;< 100 DM;4 a 7 anos;4;4;50;Própria;1;Qualificado;1;Não;Sim;Bom;41-50 anos
+Sem conta;18;Móveis/Equipamento;3422;< 100 DM;>= 7 anos;4;4;47;Própria;3;Qualificado;2;Não;Sim;Bom;41-50 anos
+0 a 200 DM;21;Móveis/Equipamento;3976;Sem conta;4 a 7 anos;2;3;35;Própria;1;Qualificado;1;Não;Sim;Bom;31-40 anos
+Sem conta;18;Carro Novo;6761;Sem conta;1  a 4 anos;2;4;68;Aluguel;2;Qualificado;1;Sim;Sim;Ruim;60+ anos
+Sem conta;24;Carro Novo;1249;< 100 DM;< 1 ano;4;2;28;Própria;1;Qualificado;1;Sim;Sim;Bom;18-30 anos
+< 0 DM;9;Rádio/TV;1364;< 100 DM;4 a 7 anos;3;4;59;Própria;1;Qualificado;1;Sim;Sim;Bom;51-60 anos
+< 0 DM;12;Rádio/TV;709;< 100 DM;>= 7 anos;4;4;57;Própria;1;Informal;1;Sim;Sim;Ruim;51-60 anos
+< 0 DM;20;Carro Novo;2235;< 100 DM;1  a 4 anos;4;2;33;Aluguel;2;Qualificado;1;Sim;Não;Ruim;31-40 anos
+Sem conta;24;Carro Usado;4042;Sem conta;4 a 7 anos;3;4;43;Própria;2;Qualificado;1;Não;Sim;Bom;41-50 anos
+Sem conta;15;Rádio/TV;1471;< 100 DM;1  a 4 anos;4;4;35;Favor;2;Qualificado;1;Não;Sim;Bom;31-40 anos
+< 0 DM;18;Carro Novo;1442;< 100 DM;4 a 7 anos;4;4;32;Favor;2;Informal;2;Sim;Sim;Ruim;31-40 anos
+Sem conta;36;Carro Novo;10875;< 100 DM;>= 7 anos;2;2;45;Própria;2;Qualificado;2;Não;Sim;Bom;41-50 anos
+Sem conta;24;Carro Novo;1474;100 a 500 DM;< 1 ano;4;3;33;Própria;1;Qualificado;1;Não;Sim;Bom;31-40 anos
+Sem conta;10;Retreinamento;894;Sem conta;4 a 7 anos;4;3;40;Própria;1;Qualificado;1;Não;Sim;Bom;31-40 anos
+Sem conta;15;Móveis/Equipamento;3343;< 100 DM;1  a 4 anos;4;2;28;Favor;1;Qualificado;1;Não;Sim;Bom;18-30 anos
+< 0 DM;15;Carro Novo;3959;< 100 DM;1  a 4 anos;3;2;29;Própria;1;Qualificado;1;Não;Sim;Ruim;18-30 anos
+Sem conta;9;Carro Novo;3577;100 a 500 DM;1  a 4 anos;1;2;26;Aluguel;1;Qualificado;2;Sim;Não;Bom;18-30 anos
+Sem conta;24;Carro Usado;5804;>= 1000 DM;1  a 4 anos;4;2;27;Própria;2;Qualificado;1;Sim;Sim;Bom;18-30 anos
+Sem conta;18;Negócios;2169;< 100 DM;1  a 4 anos;4;2;28;Própria;1;Qualificado;1;Não;Sim;Ruim;18-30 anos
+< 0 DM;24;Rádio/TV;2439;< 100 DM;< 1 ano;4;4;35;Própria;1;Qualificado;1;Não;Sim;Ruim;31-40 anos
+Sem conta;27;Móveis/Equipamento;4526;>= 1000 DM;< 1 ano;4;2;32;Própria;2;Informal;2;Não;Sim;Bom;31-40 anos
+Sem conta;10;Móveis/Equipamento;2210;< 100 DM;1  a 4 anos;2;2;25;Aluguel;1;Informal;1;Sim;Sim;Ruim;18-30 anos
+Sem conta;15;Móveis/Equipamento;2221;500 a 1000 DM;1  a 4 anos;2;4;20;Aluguel;1;Qualificado;1;Sim;Sim;Bom;18-30 anos
+< 0 DM;18;Rádio/TV;2389;< 100 DM;< 1 ano;4;1;27;Própria;1;Qualificado;1;Sim;Sim;Bom;18-30 anos
+Sem conta;12;Móveis/Equipamento;3331;< 100 DM;>= 7 anos;2;4;42;Própria;1;Qualificado;1;Sim;Sim;Bom;41-50 anos
+Sem conta;36;Negócios;7409;Sem conta;>= 7 anos;3;2;37;Própria;2;Qualificado;1;Sim;Sim;Bom;31-40 anos
+< 0 DM;12;Móveis/Equipamento;652;< 100 DM;>= 7 anos;4;4;24;Aluguel;1;Qualificado;1;Sim;Sim;Bom;18-30 anos
+Sem conta;36;Móveis/Equipamento;7678;500 a 1000 DM;4 a 7 anos;2;4;40;Própria;2;Qualificado;1;Não;Sim;Bom;31-40 anos
+>= 200 DM;6;Carro Novo;1343;< 100 DM;>= 7 anos;1;4;46;Própria;2;Qualificado;2;Sim;Não;Bom;41-50 anos
+< 0 DM;24;Negócios;1382;100 a 500 DM;4 a 7 anos;4;1;26;Própria;2;Qualificado;1;Não;Sim;Bom;18-30 anos
+Sem conta;15;Eletrodomésticos;874;Sem conta;< 1 ano;4;1;24;Própria;1;Qualificado;1;Sim;Sim;Bom;18-30 anos
+< 0 DM;12;Móveis/Equipamento;3590;< 100 DM;1  a 4 anos;2;2;29;Própria;1;Informal;2;Sim;Sim;Bom;18-30 anos
+0 a 200 DM;11;Carro Novo;1322;>= 1000 DM;1  a 4 anos;4;4;40;Própria;2;Qualificado;1;Sim;Sim;Bom;31-40 anos
+< 0 DM;18;Rádio/TV;1940;< 100 DM;< 1 ano;3;4;36;Favor;1;Autônomo/Gerência/Oficial;1;Não;Sim;Bom;31-40 anos
+Sem conta;36;Rádio/TV;3595;< 100 DM;>= 7 anos;4;2;28;Própria;1;Qualificado;1;Sim;Sim;Bom;18-30 anos
+< 0 DM;9;Carro Novo;1422;< 100 DM;< 1 ano;3;2;27;Favor;1;Autônomo/Gerência/Oficial;1;Não;Sim;Ruim;18-30 anos
+Sem conta;30;Rádio/TV;6742;Sem conta;4 a 7 anos;2;3;36;Própria;2;Qualificado;1;Sim;Sim;Bom;31-40 anos
+Sem conta;24;Carro Usado;7814;< 100 DM;4 a 7 anos;3;3;38;Própria;1;Autônomo/Gerência/Oficial;1;Não;Sim;Bom;31-40 anos
+Sem conta;24;Carro Usado;9277;Sem conta;1  a 4 anos;2;4;48;Favor;1;Qualificado;1;Não;Sim;Bom;41-50 anos
+0 a 200 DM;30;Carro Novo;2181;Sem conta;>= 7 anos;4;4;36;Própria;2;Qualificado;1;Sim;Sim;Bom;31-40 anos
+Sem conta;18;Rádio/TV;1098;< 100 DM;Desempregado;4;4;65;Própria;2;Desempregado;1;Sim;Sim;Bom;60+ anos
+0 a 200 DM;24;Móveis/Equipamento;4057;< 100 DM;4 a 7 anos;3;3;43;Própria;1;Qualificado;1;Não;Sim;Ruim;41-50 anos
+< 0 DM;12;Educação;795;< 100 DM;< 1 ano;4;4;53;Própria;1;Qualificado;1;Sim;Sim;Ruim;51-60 anos
+0 a 200 DM;24;Negócios;2825;Sem conta;4 a 7 anos;4;3;34;Própria;2;Qualificado;2;Não;Sim;Bom;31-40 anos
+0 a 200 DM;48;Negócios;15672;< 100 DM;1  a 4 anos;2;2;23;Própria;1;Qualificado;1;Não;Sim;Ruim;18-30 anos
+Sem conta;36;Carro Novo;6614;< 100 DM;>= 7 anos;4;4;34;Própria;2;Autônomo/Gerência/Oficial;1;Não;Sim;Bom;31-40 anos
+Sem conta;28;Carro Usado;7824;Sem conta;< 1 ano;3;4;40;Aluguel;2;Qualificado;2;Não;Sim;Bom;31-40 anos
+< 0 DM;27;Negócios;2442;< 100 DM;>= 7 anos;4;4;43;Própria;4;Autônomo/Gerência/Oficial;2;Não;Sim;Bom;41-50 anos
+Sem conta;15;Rádio/TV;1829;< 100 DM;>= 7 anos;4;4;46;Própria;2;Qualificado;1;Não;Sim;Bom;41-50 anos
+< 0 DM;12;Carro Novo;2171;< 100 DM;1  a 4 anos;4;4;38;Própria;2;Informal;1;Sim;Não;Bom;31-40 anos
+0 a 200 DM;36;Carro Usado;5800;< 100 DM;1  a 4 anos;3;4;34;Própria;2;Qualificado;1;Não;Sim;Bom;31-40 anos
+Sem conta;18;Rádio/TV;1169;Sem conta;1  a 4 anos;4;3;29;Própria;2;Qualificado;1;Não;Sim;Bom;18-30 anos
+Sem conta;36;Carro Usado;8947;Sem conta;4 a 7 anos;3;2;31;Própria;1;Autônomo/Gerência/Oficial;2;Não;Sim;Bom;31-40 anos
+< 0 DM;21;Rádio/TV;2606;< 100 DM;< 1 ano;4;4;28;Aluguel;1;Autônomo/Gerência/Oficial;1;Não;Sim;Bom;18-30 anos
+Sem conta;12;Móveis/Equipamento;1592;>= 1000 DM;4 a 7 anos;3;2;35;Própria;1;Qualificado;1;Sim;Não;Bom;31-40 anos
+Sem conta;15;Móveis/Equipamento;2186;Sem conta;4 a 7 anos;1;4;33;Aluguel;1;Informal;1;Sim;Sim;Bom;31-40 anos
+< 0 DM;18;Móveis/Equipamento;4153;< 100 DM;1  a 4 anos;2;3;42;Própria;1;Qualificado;1;Sim;Sim;Ruim;41-50 anos
+< 0 DM;16;Carro Novo;2625;< 100 DM;>= 7 anos;2;4;43;Aluguel;1;Qualificado;1;Não;Sim;Ruim;41-50 anos
+Sem conta;20;Carro Novo;3485;Sem conta;< 1 ano;2;4;44;Própria;2;Qualificado;1;Não;Sim;Bom;41-50 anos
+Sem conta;36;Carro Usado;10477;Sem conta;>= 7 anos;2;4;42;Favor;2;Qualificado;1;Sim;Sim;Bom;41-50 anos
+Sem conta;15;Rádio/TV;1386;Sem conta;1  a 4 anos;4;2;40;Aluguel;1;Qualificado;1;Não;Sim;Bom;31-40 anos
+Sem conta;24;Rádio/TV;1278;< 100 DM;>= 7 anos;4;1;36;Própria;1;Autônomo/Gerência/Oficial;1;Não;Sim;Bom;31-40 anos
+< 0 DM;12;Rádio/TV;1107;< 100 DM;1  a 4 anos;2;2;20;Aluguel;1;Autônomo/Gerência/Oficial;2;Não;Sim;Bom;18-30 anos
+< 0 DM;21;Carro Novo;3763;Sem conta;4 a 7 anos;2;2;24;Própria;1;Informal;1;Sim;Não;Bom;18-30 anos
+0 a 200 DM;36;Educação;3711;Sem conta;1  a 4 anos;2;2;27;Própria;1;Qualificado;1;Sim;Sim;Bom;18-30 anos
+Sem conta;15;Carro Usado;3594;< 100 DM;< 1 ano;1;2;46;Própria;2;Informal;1;Sim;Sim;Bom;41-50 anos
+0 a 200 DM;9;Carro Novo;3195;Sem conta;1  a 4 anos;1;2;33;Própria;1;Informal;1;Sim;Sim;Bom;31-40 anos
+Sem conta;36;Rádio/TV;4454;< 100 DM;1  a 4 anos;4;4;34;Própria;2;Qualificado;1;Sim;Sim;Bom;31-40 anos
+0 a 200 DM;24;Móveis/Equipamento;4736;< 100 DM;< 1 ano;2;4;25;Própria;1;Informal;1;Sim;Sim;Ruim;18-30 anos
+0 a 200 DM;30;Rádio/TV;2991;Sem conta;>= 7 anos;2;4;25;Própria;1;Qualificado;1;Sim;Sim;Bom;18-30 anos
+Sem conta;11;Negócios;2142;>= 1000 DM;>= 7 anos;1;2;28;Própria;1;Qualificado;1;Não;Sim;Bom;18-30 anos
+< 0 DM;24;Negócios;3161;< 100 DM;1  a 4 anos;4;2;31;Aluguel;1;Qualificado;1;Não;Sim;Ruim;31-40 anos
+0 a 200 DM;48;Outros;18424;< 100 DM;1  a 4 anos;1;2;32;Própria;1;Autônomo/Gerência/Oficial;1;Não;Não;Ruim;31-40 anos
+Sem conta;10;Carro Usado;2848;100 a 500 DM;1  a 4 anos;1;2;32;Própria;1;Qualificado;2;Sim;Sim;Bom;31-40 anos
+< 0 DM;6;Carro Novo;14896;< 100 DM;>= 7 anos;1;4;68;Própria;1;Autônomo/Gerência/Oficial;1;Não;Sim;Ruim;60+ anos
+< 0 DM;24;Móveis/Equipamento;2359;100 a 500 DM;Desempregado;1;1;33;Própria;1;Qualificado;1;Sim;Sim;Ruim;31-40 anos
+< 0 DM;24;Móveis/Equipamento;3345;< 100 DM;>= 7 anos;4;2;39;Aluguel;1;Autônomo/Gerência/Oficial;1;Não;Sim;Ruim;31-40 anos
+Sem conta;18;Móveis/Equipamento;1817;< 100 DM;1  a 4 anos;4;2;28;Própria;2;Qualificado;1;Sim;Sim;Bom;18-30 anos
+Sem conta;48;Rádio/TV;12749;500 a 1000 DM;4 a 7 anos;4;1;37;Própria;1;Autônomo/Gerência/Oficial;1;Não;Sim;Bom;31-40 anos
+< 0 DM;9;Rádio/TV;1366;< 100 DM;< 1 ano;3;4;22;Aluguel;1;Qualificado;1;Sim;Sim;Ruim;18-30 anos
+0 a 200 DM;12;Carro Novo;2002;< 100 DM;4 a 7 anos;3;4;30;Aluguel;1;Qualificado;2;Não;Sim;Bom;18-30 anos
+< 0 DM;24;Móveis/Equipamento;6872;< 100 DM;< 1 ano;2;1;55;Própria;1;Qualificado;1;Não;Sim;Ruim;51-60 anos
+< 0 DM;12;Carro Novo;697;< 100 DM;< 1 ano;4;2;46;Própria;2;Qualificado;1;Não;Sim;Ruim;41-50 anos
+< 0 DM;18;Móveis/Equipamento;1049;< 100 DM;< 1 ano;4;4;21;Aluguel;1;Qualificado;1;Sim;Sim;Bom;18-30 anos
+< 0 DM;48;Carro Usado;10297;< 100 DM;4 a 7 anos;4;4;39;Favor;3;Qualificado;2;Não;Sim;Ruim;31-40 anos
+Sem conta;30;Rádio/TV;1867;Sem conta;>= 7 anos;4;4;58;Própria;1;Qualificado;1;Não;Sim;Bom;51-60 anos
+< 0 DM;12;Carro Novo;1344;< 100 DM;1  a 4 anos;4;2;43;Própria;2;Informal;2;Sim;Sim;Bom;41-50 anos
+< 0 DM;24;Móveis/Equipamento;1747;< 100 DM;< 1 ano;4;1;24;Própria;1;Informal;1;Sim;Não;Bom;18-30 anos
+0 a 200 DM;9;Rádio/TV;1670;< 100 DM;< 1 ano;4;2;22;Própria;1;Qualificado;1;Não;Sim;Ruim;18-30 anos
+Sem conta;9;Carro Novo;1224;< 100 DM;1  a 4 anos;3;1;30;Própria;2;Qualificado;1;Sim;Sim;Bom;18-30 anos
+Sem conta;12;Rádio/TV;522;500 a 1000 DM;>= 7 anos;4;4;42;Própria;2;Qualificado;2;Não;Sim;Bom;41-50 anos
+< 0 DM;12;Rádio/TV;1498;< 100 DM;1  a 4 anos;4;1;23;Própria;1;Qualificado;1;Sim;Sim;Bom;18-30 anos
+0 a 200 DM;30;Rádio/TV;1919;100 a 500 DM;< 1 ano;4;3;30;Própria;2;Autônomo/Gerência/Oficial;1;Sim;Sim;Ruim;18-30 anos
+>= 200 DM;9;Rádio/TV;745;< 100 DM;1  a 4 anos;3;2;28;Própria;1;Informal;1;Sim;Sim;Ruim;18-30 anos
+0 a 200 DM;6;Rádio/TV;2063;< 100 DM;< 1 ano;4;3;30;Aluguel;1;Autônomo/Gerência/Oficial;1;Não;Sim;Bom;18-30 anos
+0 a 200 DM;60;Educação;6288;< 100 DM;1  a 4 anos;4;4;42;Favor;1;Qualificado;1;Sim;Sim;Ruim;41-50 anos
+Sem conta;24;Carro Usado;6842;Sem conta;1  a 4 anos;2;4;46;Própria;2;Autônomo/Gerência/Oficial;2;Não;Sim;Bom;41-50 anos
+Sem conta;12;Carro Novo;3527;Sem conta;< 1 ano;2;3;45;Própria;1;Autônomo/Gerência/Oficial;2;Não;Sim;Bom;41-50 anos
+Sem conta;10;Carro Novo;1546;< 100 DM;1  a 4 anos;3;2;31;Própria;1;Informal;2;Sim;Não;Bom;31-40 anos
+Sem conta;24;Móveis/Equipamento;929;Sem conta;4 a 7 anos;4;2;31;Própria;1;Qualificado;1;Não;Sim;Bom;31-40 anos
+Sem conta;4;Carro Novo;1455;< 100 DM;4 a 7 anos;2;1;42;Própria;3;Informal;2;Sim;Sim;Bom;41-50 anos
+< 0 DM;15;Móveis/Equipamento;1845;< 100 DM;< 1 ano;4;1;46;Aluguel;1;Qualificado;1;Sim;Sim;Bom;41-50 anos
+0 a 200 DM;48;Carro Novo;8358;500 a 1000 DM;< 1 ano;1;1;30;Própria;2;Qualificado;1;Sim;Sim;Bom;18-30 anos
+< 0 DM;24;Móveis/Equipamento;3349;500 a 1000 DM;< 1 ano;4;4;30;Favor;1;Qualificado;2;Não;Sim;Ruim;18-30 anos
+Sem conta;12;Carro Novo;2859;Sem conta;Desempregado;4;4;38;Própria;1;Autônomo/Gerência/Oficial;1;Não;Sim;Bom;31-40 anos
+Sem conta;18;Móveis/Equipamento;1533;< 100 DM;< 1 ano;4;1;43;Própria;1;Informal;2;Sim;Sim;Ruim;41-50 anos
+Sem conta;24;Rádio/TV;3621;100 a 500 DM;>= 7 anos;2;4;31;Própria;2;Qualificado;1;Sim;Sim;Ruim;31-40 anos
+0 a 200 DM;18;Negócios;3590;< 100 DM;Desempregado;3;3;40;Própria;3;Desempregado;2;Não;Sim;Bom;31-40 anos
+< 0 DM;36;Negócios;2145;< 100 DM;4 a 7 anos;2;1;24;Própria;2;Qualificado;1;Não;Sim;Ruim;18-30 anos
+0 a 200 DM;24;Carro Usado;4113;500 a 1000 DM;< 1 ano;3;4;28;Aluguel;1;Qualificado;1;Sim;Sim;Ruim;18-30 anos
+Sem conta;36;Móveis/Equipamento;10974;< 100 DM;Desempregado;4;2;26;Própria;2;Autônomo/Gerência/Oficial;1;Não;Sim;Ruim;18-30 anos
+< 0 DM;12;Carro Novo;1893;< 100 DM;1  a 4 anos;4;4;29;Própria;1;Qualificado;1;Não;Sim;Bom;18-30 anos
+< 0 DM;24;Rádio/TV;1231;>= 1000 DM;>= 7 anos;4;4;57;Aluguel;2;Autônomo/Gerência/Oficial;1;Não;Sim;Bom;51-60 anos
+>= 200 DM;30;Rádio/TV;3656;Sem conta;>= 7 anos;4;4;49;Própria;2;Informal;1;Sim;Sim;Bom;41-50 anos
+0 a 200 DM;9;Rádio/TV;1154;< 100 DM;>= 7 anos;2;4;37;Própria;3;Informal;1;Sim;Sim;Bom;31-40 anos
+< 0 DM;28;Carro Novo;4006;< 100 DM;1  a 4 anos;3;2;45;Própria;1;Informal;1;Sim;Sim;Ruim;41-50 anos
+0 a 200 DM;24;Móveis/Equipamento;3069;100 a 500 DM;>= 7 anos;4;4;30;Favor;1;Qualificado;1;Sim;Sim;Bom;18-30 anos
+Sem conta;6;Rádio/TV;1740;< 100 DM;>= 7 anos;2;2;30;Aluguel;2;Qualificado;1;Sim;Sim;Bom;18-30 anos
+0 a 200 DM;21;Carro Novo;2353;< 100 DM;1  a 4 anos;1;4;47;Própria;2;Qualificado;1;Sim;Sim;Bom;41-50 anos
+Sem conta;15;Carro Novo;3556;Sem conta;1  a 4 anos;3;2;29;Própria;1;Qualificado;1;Sim;Sim;Bom;18-30 anos
+Sem conta;24;Rádio/TV;2397;500 a 1000 DM;>= 7 anos;3;2;35;Própria;2;Qualificado;1;Não;Sim;Ruim;31-40 anos
+0 a 200 DM;6;Reparos;454;< 100 DM;< 1 ano;3;1;22;Própria;1;Informal;1;Sim;Sim;Bom;18-30 anos
+0 a 200 DM;30;Rádio/TV;1715;Sem conta;1  a 4 anos;4;1;26;Própria;1;Qualificado;1;Sim;Sim;Bom;18-30 anos
+0 a 200 DM;27;Rádio/TV;2520;500 a 1000 DM;1  a 4 anos;4;2;23;Própria;2;Informal;1;Sim;Sim;Ruim;18-30 anos
+Sem conta;15;Rádio/TV;3568;< 100 DM;>= 7 anos;4;2;54;Aluguel;1;Autônomo/Gerência/Oficial;1;Não;Sim;Bom;51-60 anos
+Sem conta;42;Rádio/TV;7166;Sem conta;4 a 7 anos;2;4;29;Aluguel;1;Qualificado;1;Não;Sim;Bom;18-30 anos
+< 0 DM;11;Carro Novo;3939;< 100 DM;1  a 4 anos;1;2;40;Própria;2;Informal;2;Sim;Sim;Bom;31-40 anos
+0 a 200 DM;15;Reparos;1514;100 a 500 DM;1  a 4 anos;4;2;22;Própria;1;Qualificado;1;Sim;Sim;Bom;18-30 anos
+Sem conta;24;Carro Novo;7393;< 100 DM;1  a 4 anos;1;4;43;Própria;1;Informal;2;Sim;Sim;Bom;41-50 anos
+< 0 DM;24;Carro Novo;1193;< 100 DM;Desempregado;1;4;29;Aluguel;2;Desempregado;1;Sim;Sim;Ruim;18-30 anos
+< 0 DM;60;Negócios;7297;< 100 DM;>= 7 anos;4;4;36;Aluguel;1;Qualificado;1;Sim;Sim;Ruim;31-40 anos
+Sem conta;30;Rádio/TV;2831;< 100 DM;1  a 4 anos;4;2;33;Própria;1;Qualificado;1;Não;Sim;Bom;31-40 anos
+>= 200 DM;24;Rádio/TV;1258;500 a 1000 DM;1  a 4 anos;3;3;57;Própria;1;Informal;1;Sim;Sim;Bom;51-60 anos
+0 a 200 DM;6;Rádio/TV;753;< 100 DM;1  a 4 anos;2;3;64;Própria;1;Qualificado;1;Sim;Sim;Bom;60+ anos
+0 a 200 DM;18;Negócios;2427;Sem conta;>= 7 anos;4;2;42;Própria;2;Qualificado;1;Sim;Sim;Bom;41-50 anos
+Sem conta;24;Carro Novo;2538;< 100 DM;>= 7 anos;4;4;47;Própria;2;Informal;2;Sim;Sim;Ruim;41-50 anos
+0 a 200 DM;15;Carro Novo;1264;100 a 500 DM;1  a 4 anos;2;2;25;Aluguel;1;Qualificado;1;Sim;Sim;Ruim;18-30 anos
+0 a 200 DM;30;Móveis/Equipamento;8386;< 100 DM;4 a 7 anos;2;2;49;Própria;1;Qualificado;1;Sim;Sim;Ruim;41-50 anos
+Sem conta;48;Negócios;4844;< 100 DM;Desempregado;3;2;33;Aluguel;1;Autônomo/Gerência/Oficial;1;Não;Sim;Ruim;31-40 anos
+>= 200 DM;21;Carro Novo;2923;100 a 500 DM;1  a 4 anos;1;1;28;Própria;1;Autônomo/Gerência/Oficial;1;Não;Sim;Bom;18-30 anos
+< 0 DM;36;Carro Usado;8229;< 100 DM;1  a 4 anos;2;2;26;Própria;1;Qualificado;2;Sim;Sim;Ruim;18-30 anos
+Sem conta;24;Móveis/Equipamento;2028;< 100 DM;4 a 7 anos;2;2;30;Própria;2;Informal;1;Sim;Sim;Bom;18-30 anos
+< 0 DM;15;Móveis/Equipamento;1433;< 100 DM;1  a 4 anos;4;3;25;Aluguel;2;Qualificado;1;Sim;Sim;Bom;18-30 anos
+>= 200 DM;42;Negócios;6289;< 100 DM;< 1 ano;2;1;33;Própria;2;Qualificado;1;Sim;Sim;Bom;31-40 anos
+Sem conta;13;Rádio/TV;1409;100 a 500 DM;Desempregado;2;4;64;Própria;1;Qualificado;1;Sim;Sim;Bom;60+ anos
+< 0 DM;24;Carro Usado;6579;< 100 DM;Desempregado;4;2;29;Favor;1;Autônomo/Gerência/Oficial;1;Não;Sim;Bom;18-30 anos
+0 a 200 DM;24;Rádio/TV;1743;< 100 DM;>= 7 anos;4;2;48;Própria;2;Informal;1;Sim;Sim;Bom;41-50 anos
+Sem conta;12;Educação;3565;Sem conta;< 1 ano;2;1;37;Própria;2;Informal;2;Sim;Sim;Bom;31-40 anos
+Sem conta;15;Rádio/TV;1569;100 a 500 DM;>= 7 anos;4;4;34;Própria;1;Informal;2;Sim;Sim;Bom;31-40 anos
+< 0 DM;18;Rádio/TV;1936;Sem conta;4 a 7 anos;2;4;23;Aluguel;2;Informal;1;Sim;Sim;Bom;18-30 anos
+< 0 DM;36;Móveis/Equipamento;3959;< 100 DM;Desempregado;4;3;30;Própria;1;Autônomo/Gerência/Oficial;1;Não;Sim;Bom;18-30 anos
+Sem conta;12;Carro Novo;2390;Sem conta;>= 7 anos;4;3;50;Própria;1;Qualificado;1;Não;Sim;Bom;41-50 anos
+Sem conta;12;Móveis/Equipamento;1736;< 100 DM;4 a 7 anos;3;4;31;Própria;1;Informal;1;Sim;Sim;Bom;31-40 anos
+< 0 DM;30;Carro Usado;3857;< 100 DM;1  a 4 anos;4;4;40;Própria;1;Autônomo/Gerência/Oficial;1;Não;Sim;Bom;31-40 anos
+Sem conta;12;Rádio/TV;804;< 100 DM;>= 7 anos;4;4;38;Própria;1;Qualificado;1;Sim;Sim;Bom;31-40 anos
+< 0 DM;45;Rádio/TV;1845;< 100 DM;1  a 4 anos;4;4;23;Favor;1;Qualificado;1;Não;Sim;Ruim;18-30 anos
+0 a 200 DM;45;Carro Usado;4576;100 a 500 DM;Desempregado;3;4;27;Própria;1;Qualificado;1;Sim;Sim;Bom;18-30 anos
