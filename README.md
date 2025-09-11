@@ -39,4 +39,4 @@ O dashboard permite a visualização de clientes por faixa etária, risco, e out
 - **requirements.txt**: Lista de dependências do projeto.
 
 ## 🔗 Link para o App Online
-*(...)*
+*(https://dashboardriscocredito.streamlit.app/)*
