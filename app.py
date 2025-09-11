@@ -10,7 +10,7 @@ st.set_page_config(
 
 @st.cache_data
 def carregar_dados():
-    df = pd.read_csv('credito_alemao_tratado_final.csv', sep=';', decimal=',')
+    df = pd.read_csv('dados\credito_alemao_tratado_final.csv', sep=';', decimal=',')
     return df
 
 df = carregar_dados()
