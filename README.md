@@ -10,7 +10,7 @@ O dashboard permite a visualização de clientes por faixa etária, risco, e out
 
 1. Clone o repositório:
    ```bash
-   git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/seu-usuario/seu-repositorio.git)
+   git clone [https://github.com/douglasbelizario/Dashboard-de-Analise-de-Risco-de-Credito.git](https://github.com/douglasbelizario/Dashboard-de-Analise-de-Risco-de-Credito.git)
    ```
 2. Navegue até a pasta do projeto:
    ```bash
